@@ -1,0 +1,3065 @@
+[2019-10-23 13:47:17,377 INFO] From: ../data/processed.vocab.pt
+[2019-10-23 13:47:17,377 INFO] 	* source vocab: 332 words
+[2019-10-23 13:47:17,377 INFO] 	* target vocab: 332 words
+[2019-10-23 13:47:30,338 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-23 13:47:43,800 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-23 13:47:43,936 INFO] 
+Matching: 
+[2019-10-23 13:47:43,936 INFO] 	* enc: 258 match, 74 missing, (77.71%)
+[2019-10-23 13:47:43,936 INFO] 	* dec: 258 match, 74 missing, (77.71%)
+[2019-10-23 13:47:43,936 INFO] 
+Filtered embeddings:
+[2019-10-23 13:47:43,936 INFO] 	* enc: torch.Size([332, 100])
+[2019-10-23 13:47:43,936 INFO] 	* dec: torch.Size([332, 100])
+[2019-10-23 13:47:43,936 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-23 13:47:43,937 INFO] 
+Done.
+[2019-10-23 14:07:47,383 INFO] From: ../data/processed.vocab.pt
+[2019-10-23 14:07:47,383 INFO] 	* source vocab: 332 words
+[2019-10-23 14:07:47,383 INFO] 	* target vocab: 332 words
+[2019-10-23 14:07:59,988 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-23 14:08:13,429 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-23 14:08:13,446 INFO] 
+Matching: 
+[2019-10-23 14:08:13,446 INFO] 	* enc: 258 match, 74 missing, (77.71%)
+[2019-10-23 14:08:13,446 INFO] 	* dec: 258 match, 74 missing, (77.71%)
+[2019-10-23 14:08:13,446 INFO] 
+Filtered embeddings:
+[2019-10-23 14:08:13,446 INFO] 	* enc: torch.Size([332, 100])
+[2019-10-23 14:08:13,446 INFO] 	* dec: torch.Size([332, 100])
+[2019-10-23 14:08:13,446 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-23 14:08:13,447 INFO] 
+Done.
+[2019-10-23 14:08:19,990 INFO] From: ../data/processed.vocab.pt
+[2019-10-23 14:08:19,991 INFO] 	* source vocab: 497 words
+[2019-10-23 14:08:19,991 INFO] 	* target vocab: 497 words
+[2019-10-23 14:08:32,831 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-23 14:08:46,672 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-23 14:08:46,706 INFO] 
+Matching: 
+[2019-10-23 14:08:46,707 INFO] 	* enc: 403 match, 94 missing, (81.09%)
+[2019-10-23 14:08:46,707 INFO] 	* dec: 403 match, 94 missing, (81.09%)
+[2019-10-23 14:08:46,707 INFO] 
+Filtered embeddings:
+[2019-10-23 14:08:46,707 INFO] 	* enc: torch.Size([497, 100])
+[2019-10-23 14:08:46,707 INFO] 	* dec: torch.Size([497, 100])
+[2019-10-23 14:08:46,707 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-23 14:08:46,708 INFO] 
+Done.
+[2019-10-23 14:13:17,105 INFO] From: ../data/processed.vocab.pt
+[2019-10-23 14:13:17,105 INFO] 	* source vocab: 497 words
+[2019-10-23 14:13:17,105 INFO] 	* target vocab: 497 words
+[2019-10-23 14:13:30,238 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-23 14:13:45,015 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-23 14:13:45,039 INFO] 
+Matching: 
+[2019-10-23 14:13:45,039 INFO] 	* enc: 403 match, 94 missing, (81.09%)
+[2019-10-23 14:13:45,039 INFO] 	* dec: 403 match, 94 missing, (81.09%)
+[2019-10-23 14:13:45,039 INFO] 
+Filtered embeddings:
+[2019-10-23 14:13:45,039 INFO] 	* enc: torch.Size([497, 100])
+[2019-10-23 14:13:45,039 INFO] 	* dec: torch.Size([497, 100])
+[2019-10-23 14:13:45,039 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-23 14:13:45,040 INFO] 
+Done.
+[2019-10-28 21:45:48,471 INFO] From: ../data/processed.vocab.pt
+[2019-10-28 21:45:48,471 INFO] 	* source vocab: 497 words
+[2019-10-28 21:45:48,472 INFO] 	* target vocab: 497 words
+[2019-10-28 21:45:58,015 INFO] From: ../data/processed.vocab.pt
+[2019-10-28 21:45:58,015 INFO] 	* source vocab: 497 words
+[2019-10-28 21:45:58,015 INFO] 	* target vocab: 497 words
+[2019-10-28 21:46:11,390 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-28 21:46:24,794 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-28 21:46:24,829 INFO] 
+Matching: 
+[2019-10-28 21:46:24,829 INFO] 	* enc: 403 match, 94 missing, (81.09%)
+[2019-10-28 21:46:24,829 INFO] 	* dec: 403 match, 94 missing, (81.09%)
+[2019-10-28 21:46:24,829 INFO] 
+Filtered embeddings:
+[2019-10-28 21:46:24,830 INFO] 	* enc: torch.Size([497, 100])
+[2019-10-28 21:46:24,830 INFO] 	* dec: torch.Size([497, 100])
+[2019-10-28 21:46:24,830 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-28 21:46:24,831 INFO] 
+Done.
+[2019-10-28 22:18:53,529 INFO] From: ../data/processed.vocab.pt
+[2019-10-28 22:18:53,529 INFO] 	* source vocab: 610 words
+[2019-10-28 22:18:53,529 INFO] 	* target vocab: 610 words
+[2019-10-28 22:19:06,156 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-28 22:19:52,467 INFO] From: ../data/processed.vocab.pt
+[2019-10-28 22:19:52,467 INFO] 	* source vocab: 610 words
+[2019-10-28 22:19:52,467 INFO] 	* target vocab: 610 words
+[2019-10-28 22:20:04,422 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-28 22:20:17,619 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-28 22:20:17,633 INFO] 
+Matching: 
+[2019-10-28 22:20:17,633 INFO] 	* enc: 0 match, 610 missing, (0.00%)
+[2019-10-28 22:20:17,633 INFO] 	* dec: 0 match, 610 missing, (0.00%)
+[2019-10-28 22:20:17,633 INFO] 
+Filtered embeddings:
+[2019-10-28 22:20:17,634 INFO] 	* enc: torch.Size([610, 100])
+[2019-10-28 22:20:17,634 INFO] 	* dec: torch.Size([610, 100])
+[2019-10-28 22:20:17,634 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-28 22:20:17,635 INFO] 
+Done.
+[2019-10-28 22:43:53,269 INFO] From: ../data/processed.vocab.pt
+[2019-10-28 22:43:53,269 INFO] 	* source vocab: 610 words
+[2019-10-28 22:43:53,269 INFO] 	* target vocab: 610 words
+[2019-10-29 00:06:30,437 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:06:30,437 INFO] 	* source vocab: 610 words
+[2019-10-29 00:06:30,438 INFO] 	* target vocab: 610 words
+[2019-10-29 00:07:47,915 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:07:47,915 INFO] 	* source vocab: 610 words
+[2019-10-29 00:07:47,915 INFO] 	* target vocab: 610 words
+[2019-10-29 00:17:00,691 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:17:00,691 INFO] 	* source vocab: 610 words
+[2019-10-29 00:17:00,691 INFO] 	* target vocab: 610 words
+[2019-10-29 00:19:06,018 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:19:06,018 INFO] 	* source vocab: 521 words
+[2019-10-29 00:19:06,018 INFO] 	* target vocab: 521 words
+[2019-10-29 00:22:32,656 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:22:32,656 INFO] 	* source vocab: 521 words
+[2019-10-29 00:22:32,656 INFO] 	* target vocab: 521 words
+[2019-10-29 00:23:31,742 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:23:31,743 INFO] 	* source vocab: 521 words
+[2019-10-29 00:23:31,743 INFO] 	* target vocab: 521 words
+[2019-10-29 00:23:58,746 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:23:58,746 INFO] 	* source vocab: 521 words
+[2019-10-29 00:23:58,747 INFO] 	* target vocab: 521 words
+[2019-10-29 00:24:53,151 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:24:53,151 INFO] 	* source vocab: 521 words
+[2019-10-29 00:24:53,151 INFO] 	* target vocab: 521 words
+[2019-10-29 00:26:16,904 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:26:16,904 INFO] 	* source vocab: 521 words
+[2019-10-29 00:26:16,904 INFO] 	* target vocab: 521 words
+[2019-10-29 00:26:49,600 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:26:49,600 INFO] 	* source vocab: 521 words
+[2019-10-29 00:26:49,600 INFO] 	* target vocab: 521 words
+[2019-10-29 00:27:48,894 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:27:48,895 INFO] 	* source vocab: 521 words
+[2019-10-29 00:27:48,895 INFO] 	* target vocab: 521 words
+[2019-10-29 00:30:17,557 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 00:30:17,557 INFO] 	* source vocab: 459 words
+[2019-10-29 00:30:17,557 INFO] 	* target vocab: 459 words
+[2019-10-29 13:24:31,262 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:24:31,262 INFO] 	* source vocab: 459 words
+[2019-10-29 13:24:31,262 INFO] 	* target vocab: 459 words
+[2019-10-29 13:24:44,248 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-29 13:24:58,994 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-29 13:24:59,018 INFO] 
+Matching: 
+[2019-10-29 13:24:59,019 INFO] 	* enc: 447 match, 12 missing, (97.39%)
+[2019-10-29 13:24:59,019 INFO] 	* dec: 447 match, 12 missing, (97.39%)
+[2019-10-29 13:24:59,019 INFO] 
+Filtered embeddings:
+[2019-10-29 13:24:59,019 INFO] 	* enc: torch.Size([459, 100])
+[2019-10-29 13:24:59,019 INFO] 	* dec: torch.Size([459, 100])
+[2019-10-29 13:24:59,019 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-29 13:24:59,020 INFO] 
+Done.
+[2019-10-29 13:27:15,670 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:27:15,670 INFO] 	* source vocab: 459 words
+[2019-10-29 13:27:15,670 INFO] 	* target vocab: 459 words
+[2019-10-29 13:28:50,915 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:28:50,915 INFO] 	* source vocab: 459 words
+[2019-10-29 13:28:50,915 INFO] 	* target vocab: 459 words
+[2019-10-29 13:30:09,715 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:30:09,715 INFO] 	* source vocab: 459 words
+[2019-10-29 13:30:09,715 INFO] 	* target vocab: 459 words
+[2019-10-29 13:31:27,671 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:31:27,671 INFO] 	* source vocab: 459 words
+[2019-10-29 13:31:27,671 INFO] 	* target vocab: 459 words
+[2019-10-29 13:34:14,356 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:34:14,356 INFO] 	* source vocab: 459 words
+[2019-10-29 13:34:14,356 INFO] 	* target vocab: 459 words
+[2019-10-29 13:34:23,466 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:34:23,467 INFO] 	* source vocab: 459 words
+[2019-10-29 13:34:23,467 INFO] 	* target vocab: 459 words
+[2019-10-29 13:36:58,996 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:36:58,997 INFO] 	* source vocab: 459 words
+[2019-10-29 13:36:58,997 INFO] 	* target vocab: 459 words
+[2019-10-29 13:41:22,756 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:41:22,756 INFO] 	* source vocab: 459 words
+[2019-10-29 13:41:22,756 INFO] 	* target vocab: 459 words
+[2019-10-29 13:41:35,817 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-29 13:41:49,493 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-29 13:41:49,512 INFO] 
+Matching: 
+[2019-10-29 13:41:49,512 INFO] 	* enc: 447 match, 12 missing, (97.39%)
+[2019-10-29 13:41:49,512 INFO] 	* dec: 447 match, 12 missing, (97.39%)
+[2019-10-29 13:41:49,512 INFO] 
+Filtered embeddings:
+[2019-10-29 13:41:49,512 INFO] 	* enc: torch.Size([459, 100])
+[2019-10-29 13:41:49,512 INFO] 	* dec: torch.Size([459, 100])
+[2019-10-29 13:41:49,512 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-29 13:41:49,513 INFO] 
+Done.
+[2019-10-29 13:42:18,336 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:42:18,337 INFO] 	* source vocab: 459 words
+[2019-10-29 13:42:18,337 INFO] 	* target vocab: 459 words
+[2019-10-29 13:43:15,624 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:43:15,624 INFO] 	* source vocab: 459 words
+[2019-10-29 13:43:15,624 INFO] 	* target vocab: 459 words
+[2019-10-29 13:46:41,443 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:46:41,443 INFO] 	* source vocab: 459 words
+[2019-10-29 13:46:41,443 INFO] 	* target vocab: 459 words
+[2019-10-29 13:47:06,003 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:47:06,003 INFO] 	* source vocab: 459 words
+[2019-10-29 13:47:06,003 INFO] 	* target vocab: 459 words
+[2019-10-29 13:47:48,002 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:47:48,002 INFO] 	* source vocab: 459 words
+[2019-10-29 13:47:48,002 INFO] 	* target vocab: 459 words
+[2019-10-29 13:59:31,783 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 13:59:31,783 INFO] 	* source vocab: 459 words
+[2019-10-29 13:59:31,783 INFO] 	* target vocab: 459 words
+[2019-10-29 14:18:48,592 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 14:18:48,592 INFO] 	* source vocab: 459 words
+[2019-10-29 14:18:48,592 INFO] 	* target vocab: 459 words
+[2019-10-29 14:23:17,962 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 14:23:17,962 INFO] 	* source vocab: 459 words
+[2019-10-29 14:23:17,962 INFO] 	* target vocab: 459 words
+[2019-10-29 14:36:24,496 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 14:36:24,496 INFO] 	* source vocab: 459 words
+[2019-10-29 14:36:24,496 INFO] 	* target vocab: 459 words
+[2019-10-29 14:38:29,522 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 14:38:29,522 INFO] 	* source vocab: 459 words
+[2019-10-29 14:38:29,522 INFO] 	* target vocab: 459 words
+[2019-10-29 14:38:50,438 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 14:38:50,438 INFO] 	* source vocab: 459 words
+[2019-10-29 14:38:50,438 INFO] 	* target vocab: 459 words
+[2019-10-29 14:43:12,286 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 14:43:12,286 INFO] 	* source vocab: 459 words
+[2019-10-29 14:43:12,286 INFO] 	* target vocab: 459 words
+[2019-10-29 14:54:32,823 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 14:54:32,823 INFO] 	* source vocab: 459 words
+[2019-10-29 14:54:32,823 INFO] 	* target vocab: 459 words
+[2019-10-29 14:55:02,486 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 14:55:02,486 INFO] 	* source vocab: 459 words
+[2019-10-29 14:55:02,486 INFO] 	* target vocab: 459 words
+[2019-10-29 14:58:06,765 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 14:58:06,765 INFO] 	* source vocab: 459 words
+[2019-10-29 14:58:06,765 INFO] 	* target vocab: 459 words
+[2019-10-29 15:22:20,541 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 15:22:20,541 INFO] 	* source vocab: 459 words
+[2019-10-29 15:22:20,541 INFO] 	* target vocab: 459 words
+[2019-10-29 15:30:04,624 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 15:30:04,625 INFO] 	* source vocab: 459 words
+[2019-10-29 15:30:04,625 INFO] 	* target vocab: 459 words
+[2019-10-29 15:41:07,432 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 15:41:07,433 INFO] 	* source vocab: 459 words
+[2019-10-29 15:41:07,433 INFO] 	* target vocab: 459 words
+[2019-10-29 15:41:45,801 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 15:41:45,802 INFO] 	* source vocab: 459 words
+[2019-10-29 15:41:45,802 INFO] 	* target vocab: 459 words
+[2019-10-29 15:42:55,514 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 15:42:55,514 INFO] 	* source vocab: 459 words
+[2019-10-29 15:42:55,514 INFO] 	* target vocab: 459 words
+[2019-10-29 16:06:20,196 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 16:06:20,196 INFO] 	* source vocab: 459 words
+[2019-10-29 16:06:20,196 INFO] 	* target vocab: 459 words
+[2019-10-29 16:07:15,332 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 16:07:15,332 INFO] 	* source vocab: 459 words
+[2019-10-29 16:07:15,332 INFO] 	* target vocab: 459 words
+[2019-10-29 16:15:32,465 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 16:15:32,465 INFO] 	* source vocab: 459 words
+[2019-10-29 16:15:32,465 INFO] 	* target vocab: 459 words
+[2019-10-29 17:02:07,569 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 17:02:07,569 INFO] 	* source vocab: 459 words
+[2019-10-29 17:02:07,569 INFO] 	* target vocab: 459 words
+[2019-10-29 17:11:08,604 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 17:11:08,605 INFO] 	* source vocab: 459 words
+[2019-10-29 17:11:08,605 INFO] 	* target vocab: 459 words
+[2019-10-29 17:31:44,588 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 17:31:44,588 INFO] 	* source vocab: 459 words
+[2019-10-29 17:31:44,588 INFO] 	* target vocab: 459 words
+[2019-10-29 17:32:07,047 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 17:32:07,047 INFO] 	* source vocab: 459 words
+[2019-10-29 17:32:07,047 INFO] 	* target vocab: 459 words
+[2019-10-29 17:33:07,149 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 17:33:07,149 INFO] 	* source vocab: 459 words
+[2019-10-29 17:33:07,149 INFO] 	* target vocab: 459 words
+[2019-10-29 17:33:53,296 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 17:33:53,296 INFO] 	* source vocab: 459 words
+[2019-10-29 17:33:53,296 INFO] 	* target vocab: 459 words
+[2019-10-29 18:04:07,708 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 18:04:07,709 INFO] 	* source vocab: 459 words
+[2019-10-29 18:04:07,709 INFO] 	* target vocab: 459 words
+[2019-10-29 18:21:00,042 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 18:21:00,042 INFO] 	* source vocab: 459 words
+[2019-10-29 18:21:00,042 INFO] 	* target vocab: 459 words
+[2019-10-29 18:22:14,825 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 18:22:14,825 INFO] 	* source vocab: 459 words
+[2019-10-29 18:22:14,825 INFO] 	* target vocab: 459 words
+[2019-10-29 18:42:15,663 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 18:42:15,664 INFO] 	* source vocab: 459 words
+[2019-10-29 18:42:15,664 INFO] 	* target vocab: 459 words
+[2019-10-29 18:44:20,781 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 18:44:20,782 INFO] 	* source vocab: 459 words
+[2019-10-29 18:44:20,782 INFO] 	* target vocab: 459 words
+[2019-10-29 18:47:37,748 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 18:47:37,748 INFO] 	* source vocab: 320 words
+[2019-10-29 18:47:37,748 INFO] 	* target vocab: 320 words
+[2019-10-29 19:33:36,466 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 19:33:36,466 INFO] 	* source vocab: 320 words
+[2019-10-29 19:33:36,466 INFO] 	* target vocab: 320 words
+[2019-10-29 19:37:15,027 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 19:37:15,027 INFO] 	* source vocab: 320 words
+[2019-10-29 19:37:15,027 INFO] 	* target vocab: 320 words
+[2019-10-29 19:39:41,172 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 19:39:41,172 INFO] 	* source vocab: 320 words
+[2019-10-29 19:39:41,172 INFO] 	* target vocab: 320 words
+[2019-10-29 19:49:18,684 INFO] From: ../data/processed.vocab.pt
+[2019-10-29 19:49:18,684 INFO] 	* source vocab: 320 words
+[2019-10-29 19:49:18,684 INFO] 	* target vocab: 320 words
+[2019-10-29 19:49:31,263 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-29 19:49:45,033 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-29 19:49:45,039 INFO] 
+Matching: 
+[2019-10-29 19:49:45,039 INFO] 	* enc: 308 match, 12 missing, (96.25%)
+[2019-10-29 19:49:45,039 INFO] 	* dec: 308 match, 12 missing, (96.25%)
+[2019-10-29 19:49:45,039 INFO] 
+Filtered embeddings:
+[2019-10-29 19:49:45,039 INFO] 	* enc: torch.Size([320, 100])
+[2019-10-29 19:49:45,039 INFO] 	* dec: torch.Size([320, 100])
+[2019-10-29 19:49:45,039 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-29 19:49:45,040 INFO] 
+Done.
+[2019-10-30 10:17:30,160 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 10:17:30,160 INFO] 	* source vocab: 320 words
+[2019-10-30 10:17:30,160 INFO] 	* target vocab: 320 words
+[2019-10-30 15:32:32,301 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 15:32:32,301 INFO] 	* source vocab: 320 words
+[2019-10-30 15:32:32,301 INFO] 	* target vocab: 320 words
+[2019-10-30 15:33:47,176 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 15:33:47,176 INFO] 	* source vocab: 320 words
+[2019-10-30 15:33:47,176 INFO] 	* target vocab: 320 words
+[2019-10-30 15:34:34,393 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 15:34:34,393 INFO] 	* source vocab: 320 words
+[2019-10-30 15:34:34,393 INFO] 	* target vocab: 320 words
+[2019-10-30 15:35:11,802 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 15:35:11,802 INFO] 	* source vocab: 320 words
+[2019-10-30 15:35:11,802 INFO] 	* target vocab: 320 words
+[2019-10-30 15:35:58,644 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 15:35:58,644 INFO] 	* source vocab: 320 words
+[2019-10-30 15:35:58,644 INFO] 	* target vocab: 320 words
+[2019-10-30 15:36:13,048 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 15:36:13,049 INFO] 	* source vocab: 320 words
+[2019-10-30 15:36:13,049 INFO] 	* target vocab: 320 words
+[2019-10-30 15:40:34,704 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 15:40:34,704 INFO] 	* source vocab: 320 words
+[2019-10-30 15:40:34,704 INFO] 	* target vocab: 320 words
+[2019-10-30 15:40:48,195 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 15:41:02,893 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 15:41:02,899 INFO] 
+Matching: 
+[2019-10-30 15:41:02,899 INFO] 	* enc: 308 match, 12 missing, (96.25%)
+[2019-10-30 15:41:02,899 INFO] 	* dec: 308 match, 12 missing, (96.25%)
+[2019-10-30 15:41:02,899 INFO] 
+Filtered embeddings:
+[2019-10-30 15:41:02,899 INFO] 	* enc: torch.Size([320, 100])
+[2019-10-30 15:41:02,899 INFO] 	* dec: torch.Size([320, 100])
+[2019-10-30 15:41:02,899 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-30 15:41:02,900 INFO] 
+Done.
+[2019-10-30 18:13:35,748 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:13:35,748 INFO] 	* source vocab: 320 words
+[2019-10-30 18:13:35,748 INFO] 	* target vocab: 320 words
+[2019-10-30 18:14:10,419 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:14:10,419 INFO] 	* source vocab: 320 words
+[2019-10-30 18:14:10,419 INFO] 	* target vocab: 320 words
+[2019-10-30 18:16:43,788 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:16:43,788 INFO] 	* source vocab: 320 words
+[2019-10-30 18:16:43,788 INFO] 	* target vocab: 320 words
+[2019-10-30 18:17:29,723 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:17:29,724 INFO] 	* source vocab: 320 words
+[2019-10-30 18:17:29,724 INFO] 	* target vocab: 320 words
+[2019-10-30 18:34:02,924 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:34:02,924 INFO] 	* source vocab: 320 words
+[2019-10-30 18:34:02,924 INFO] 	* target vocab: 320 words
+[2019-10-30 18:35:57,494 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:35:57,494 INFO] 	* source vocab: 320 words
+[2019-10-30 18:35:57,494 INFO] 	* target vocab: 320 words
+[2019-10-30 18:40:28,175 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:40:28,175 INFO] 	* source vocab: 320 words
+[2019-10-30 18:40:28,175 INFO] 	* target vocab: 320 words
+[2019-10-30 18:40:45,385 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:40:45,385 INFO] 	* source vocab: 320 words
+[2019-10-30 18:40:45,385 INFO] 	* target vocab: 320 words
+[2019-10-30 18:41:43,139 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:41:43,139 INFO] 	* source vocab: 320 words
+[2019-10-30 18:41:43,139 INFO] 	* target vocab: 320 words
+[2019-10-30 18:42:11,230 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:42:11,230 INFO] 	* source vocab: 320 words
+[2019-10-30 18:42:11,230 INFO] 	* target vocab: 320 words
+[2019-10-30 18:44:56,335 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:44:56,335 INFO] 	* source vocab: 320 words
+[2019-10-30 18:44:56,335 INFO] 	* target vocab: 320 words
+[2019-10-30 18:56:09,303 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:56:09,303 INFO] 	* source vocab: 320 words
+[2019-10-30 18:56:09,303 INFO] 	* target vocab: 320 words
+[2019-10-30 18:56:48,483 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:56:48,483 INFO] 	* source vocab: 320 words
+[2019-10-30 18:56:48,483 INFO] 	* target vocab: 320 words
+[2019-10-30 18:57:54,520 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 18:57:54,521 INFO] 	* source vocab: 467 words
+[2019-10-30 18:57:54,521 INFO] 	* target vocab: 467 words
+[2019-10-30 19:15:12,841 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:15:12,841 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:15:12,841 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:17:03,754 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:17:03,755 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:17:03,755 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:18:23,338 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:18:23,338 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:18:23,338 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:19:13,094 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:19:13,094 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:19:13,094 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:19:25,881 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 19:33:48,015 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:33:48,015 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:33:48,016 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:39:38,131 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:39:38,131 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:39:38,132 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:40:31,958 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:40:31,958 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:40:31,958 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:40:44,185 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 19:40:58,217 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 19:40:58,480 INFO] 
+Matching: 
+[2019-10-30 19:40:58,480 INFO] 	* enc: 21591 match, 2172 missing, (90.86%)
+[2019-10-30 19:40:58,480 INFO] 	* dec: 21591 match, 2172 missing, (90.86%)
+[2019-10-30 19:40:58,480 INFO] 
+Filtered embeddings:
+[2019-10-30 19:40:58,480 INFO] 	* enc: torch.Size([23763, 100])
+[2019-10-30 19:40:58,480 INFO] 	* dec: torch.Size([23763, 100])
+[2019-10-30 19:40:58,480 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-30 19:40:58,493 INFO] 
+Done.
+[2019-10-30 19:41:03,232 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:41:03,232 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:41:03,233 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:41:16,028 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 19:45:07,299 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:45:07,299 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:45:07,299 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:45:19,369 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 19:46:16,973 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:46:16,974 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:46:16,974 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:47:44,049 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:47:44,050 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:47:44,050 INFO] 	* target vocab: 23763 words
+[2019-10-30 19:47:56,479 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 19:48:10,663 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 19:48:10,933 INFO] 
+Matching: 
+[2019-10-30 19:48:10,933 INFO] 	* enc: 21591 match, 2172 missing, (90.86%)
+[2019-10-30 19:48:10,934 INFO] 	* dec: 21591 match, 2172 missing, (90.86%)
+[2019-10-30 19:48:10,934 INFO] 
+Filtered embeddings:
+[2019-10-30 19:48:10,934 INFO] 	* enc: torch.Size([23763, 100])
+[2019-10-30 19:48:10,934 INFO] 	* dec: torch.Size([23763, 100])
+[2019-10-30 19:48:10,934 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-30 19:48:10,951 INFO] 
+Done.
+[2019-10-30 19:57:19,427 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 19:57:19,427 INFO] 	* source vocab: 23763 words
+[2019-10-30 19:57:19,427 INFO] 	* target vocab: 23763 words
+[2019-10-30 20:00:56,363 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 20:00:56,363 INFO] 	* source vocab: 23763 words
+[2019-10-30 20:00:56,363 INFO] 	* target vocab: 23763 words
+[2019-10-30 20:01:08,669 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 20:01:21,909 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 20:01:22,156 INFO] 
+Matching: 
+[2019-10-30 20:01:22,157 INFO] 	* enc: 21591 match, 2172 missing, (90.86%)
+[2019-10-30 20:01:22,157 INFO] 	* dec: 21591 match, 2172 missing, (90.86%)
+[2019-10-30 20:01:22,157 INFO] 
+Filtered embeddings:
+[2019-10-30 20:01:22,157 INFO] 	* enc: torch.Size([23763, 100])
+[2019-10-30 20:01:22,157 INFO] 	* dec: torch.Size([23763, 100])
+[2019-10-30 20:01:22,157 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-30 20:01:22,174 INFO] 
+Done.
+[2019-10-30 20:03:32,234 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 20:03:32,234 INFO] 	* source vocab: 23763 words
+[2019-10-30 20:03:32,234 INFO] 	* target vocab: 23763 words
+[2019-10-30 20:17:50,238 INFO] From: ../data/processed.vocab.pt
+[2019-10-30 20:17:50,238 INFO] 	* source vocab: 23763 words
+[2019-10-30 20:17:50,238 INFO] 	* target vocab: 23763 words
+[2019-10-30 20:18:05,425 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 20:18:21,250 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-30 20:18:21,726 INFO] 
+Matching: 
+[2019-10-30 20:18:21,726 INFO] 	* enc: 21591 match, 2172 missing, (90.86%)
+[2019-10-30 20:18:21,726 INFO] 	* dec: 21591 match, 2172 missing, (90.86%)
+[2019-10-30 20:18:21,726 INFO] 
+Filtered embeddings:
+[2019-10-30 20:18:21,731 INFO] 	* enc: torch.Size([23763, 100])
+[2019-10-30 20:18:21,731 INFO] 	* dec: torch.Size([23763, 100])
+[2019-10-30 20:18:21,731 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-30 20:18:21,746 INFO] 
+Done.
+[2019-10-31 19:57:49,685 INFO] From: ../data/processed.vocab.pt
+[2019-10-31 19:57:49,686 INFO] 	* source vocab: 467 words
+[2019-10-31 19:57:49,686 INFO] 	* target vocab: 467 words
+[2019-10-31 19:58:02,642 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-31 19:58:16,487 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-31 19:58:16,510 INFO] 
+Matching: 
+[2019-10-31 19:58:16,510 INFO] 	* enc: 455 match, 12 missing, (97.43%)
+[2019-10-31 19:58:16,510 INFO] 	* dec: 455 match, 12 missing, (97.43%)
+[2019-10-31 19:58:16,510 INFO] 
+Filtered embeddings:
+[2019-10-31 19:58:16,511 INFO] 	* enc: torch.Size([467, 100])
+[2019-10-31 19:58:16,511 INFO] 	* dec: torch.Size([467, 100])
+[2019-10-31 19:58:16,511 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-31 19:58:16,517 INFO] 
+Done.
+[2019-10-31 20:33:53,675 INFO] From: ../data/processed.vocab.pt
+[2019-10-31 20:33:53,675 INFO] 	* source vocab: 467 words
+[2019-10-31 20:33:53,675 INFO] 	* target vocab: 467 words
+[2019-10-31 20:34:05,924 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-31 20:34:21,019 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-31 20:34:21,042 INFO] 
+Matching: 
+[2019-10-31 20:34:21,042 INFO] 	* enc: 455 match, 12 missing, (97.43%)
+[2019-10-31 20:34:21,042 INFO] 	* dec: 455 match, 12 missing, (97.43%)
+[2019-10-31 20:34:21,042 INFO] 
+Filtered embeddings:
+[2019-10-31 20:34:21,043 INFO] 	* enc: torch.Size([467, 100])
+[2019-10-31 20:34:21,043 INFO] 	* dec: torch.Size([467, 100])
+[2019-10-31 20:34:21,043 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-31 20:34:21,044 INFO] 
+Done.
+[2019-10-31 20:36:09,379 INFO] From: ../data/processed.vocab.pt
+[2019-10-31 20:36:09,379 INFO] 	* source vocab: 23763 words
+[2019-10-31 20:36:09,379 INFO] 	* target vocab: 23763 words
+[2019-10-31 20:36:21,684 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-31 20:36:35,255 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-31 20:36:35,609 INFO] 
+Matching: 
+[2019-10-31 20:36:35,609 INFO] 	* enc: 21591 match, 2172 missing, (90.86%)
+[2019-10-31 20:36:35,609 INFO] 	* dec: 21591 match, 2172 missing, (90.86%)
+[2019-10-31 20:36:35,609 INFO] 
+Filtered embeddings:
+[2019-10-31 20:36:35,609 INFO] 	* enc: torch.Size([23763, 100])
+[2019-10-31 20:36:35,610 INFO] 	* dec: torch.Size([23763, 100])
+[2019-10-31 20:36:35,610 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-31 20:36:35,622 INFO] 
+Done.
+[2019-10-31 20:43:57,390 INFO] From: ../data/processed.vocab.pt
+[2019-10-31 20:43:57,390 INFO] 	* source vocab: 170 words
+[2019-10-31 20:43:57,390 INFO] 	* target vocab: 170 words
+[2019-10-31 20:44:09,608 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-31 20:44:23,100 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-10-31 20:44:23,105 INFO] 
+Matching: 
+[2019-10-31 20:44:23,105 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-10-31 20:44:23,105 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-10-31 20:44:23,105 INFO] 
+Filtered embeddings:
+[2019-10-31 20:44:23,105 INFO] 	* enc: torch.Size([170, 100])
+[2019-10-31 20:44:23,105 INFO] 	* dec: torch.Size([170, 100])
+[2019-10-31 20:44:23,105 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-10-31 20:44:23,108 INFO] 
+Done.
+[2019-11-01 13:42:22,945 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 13:42:22,945 INFO] 	* source vocab: 170 words
+[2019-11-01 13:42:22,945 INFO] 	* target vocab: 170 words
+[2019-11-01 13:43:04,538 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 13:43:04,539 INFO] 	* source vocab: 170 words
+[2019-11-01 13:43:04,539 INFO] 	* target vocab: 170 words
+[2019-11-01 13:43:52,726 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 13:43:52,726 INFO] 	* source vocab: 170 words
+[2019-11-01 13:43:52,726 INFO] 	* target vocab: 170 words
+[2019-11-01 13:44:34,453 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 13:44:34,453 INFO] 	* source vocab: 170 words
+[2019-11-01 13:44:34,454 INFO] 	* target vocab: 170 words
+[2019-11-01 13:47:01,882 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 13:47:01,882 INFO] 	* source vocab: 170 words
+[2019-11-01 13:47:01,883 INFO] 	* target vocab: 170 words
+[2019-11-01 13:47:34,332 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 13:47:34,332 INFO] 	* source vocab: 170 words
+[2019-11-01 13:47:34,332 INFO] 	* target vocab: 170 words
+[2019-11-01 13:53:09,545 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 13:53:09,545 INFO] 	* source vocab: 170 words
+[2019-11-01 13:53:09,545 INFO] 	* target vocab: 170 words
+[2019-11-01 13:53:22,082 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 13:56:20,883 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 13:56:20,883 INFO] 	* source vocab: 170 words
+[2019-11-01 13:56:20,883 INFO] 	* target vocab: 170 words
+[2019-11-01 13:58:15,614 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 13:58:15,614 INFO] 	* source vocab: 170 words
+[2019-11-01 13:58:15,614 INFO] 	* target vocab: 170 words
+[2019-11-01 14:05:17,821 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 14:05:17,821 INFO] 	* source vocab: 50004 words
+[2019-11-01 14:05:17,821 INFO] 	* target vocab: 50004 words
+[2019-11-01 14:05:29,590 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 14:05:42,513 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 14:05:43,075 INFO] 
+Matching: 
+[2019-11-01 14:05:43,075 INFO] 	* enc: 41956 match, 8048 missing, (83.91%)
+[2019-11-01 14:05:43,076 INFO] 	* dec: 41956 match, 8048 missing, (83.91%)
+[2019-11-01 14:05:43,076 INFO] 
+Filtered embeddings:
+[2019-11-01 14:05:43,076 INFO] 	* enc: torch.Size([50004, 100])
+[2019-11-01 14:05:43,076 INFO] 	* dec: torch.Size([50004, 100])
+[2019-11-01 14:05:43,076 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-01 14:05:43,124 INFO] 
+Done.
+[2019-11-01 14:06:34,596 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 14:06:34,596 INFO] 	* source vocab: 50004 words
+[2019-11-01 14:06:34,596 INFO] 	* target vocab: 50004 words
+[2019-11-01 14:07:38,815 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 14:07:38,815 INFO] 	* source vocab: 50004 words
+[2019-11-01 14:07:38,815 INFO] 	* target vocab: 50004 words
+[2019-11-01 14:07:50,656 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 14:08:03,719 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 14:08:04,277 INFO] 
+Matching: 
+[2019-11-01 14:08:04,277 INFO] 	* enc: 41956 match, 8048 missing, (83.91%)
+[2019-11-01 14:08:04,277 INFO] 	* dec: 41956 match, 8048 missing, (83.91%)
+[2019-11-01 14:08:04,277 INFO] 
+Filtered embeddings:
+[2019-11-01 14:08:04,278 INFO] 	* enc: torch.Size([50004, 100])
+[2019-11-01 14:08:04,278 INFO] 	* dec: torch.Size([50004, 100])
+[2019-11-01 14:08:04,278 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-01 14:08:04,318 INFO] 
+Done.
+[2019-11-01 14:08:17,666 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 14:08:17,667 INFO] 	* source vocab: 50004 words
+[2019-11-01 14:08:17,667 INFO] 	* target vocab: 50004 words
+[2019-11-01 14:08:46,415 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 14:08:46,415 INFO] 	* source vocab: 50004 words
+[2019-11-01 14:08:46,415 INFO] 	* target vocab: 50004 words
+[2019-11-01 14:09:03,495 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 14:09:03,495 INFO] 	* source vocab: 50004 words
+[2019-11-01 14:09:03,495 INFO] 	* target vocab: 50004 words
+[2019-11-01 14:19:47,786 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 14:19:47,786 INFO] 	* source vocab: 170 words
+[2019-11-01 14:19:47,786 INFO] 	* target vocab: 170 words
+[2019-11-01 14:19:59,823 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 14:20:13,020 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 14:20:13,023 INFO] 
+Matching: 
+[2019-11-01 14:20:13,023 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-01 14:20:13,023 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-01 14:20:13,023 INFO] 
+Filtered embeddings:
+[2019-11-01 14:20:13,023 INFO] 	* enc: torch.Size([170, 100])
+[2019-11-01 14:20:13,023 INFO] 	* dec: torch.Size([170, 100])
+[2019-11-01 14:20:13,024 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-01 14:20:13,028 INFO] 
+Done.
+[2019-11-01 20:27:01,318 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 20:27:01,318 INFO] 	* source vocab: 50004 words
+[2019-11-01 20:27:01,318 INFO] 	* target vocab: 50004 words
+[2019-11-01 20:27:13,777 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 20:27:27,590 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 20:27:28,059 INFO] 
+Matching: 
+[2019-11-01 20:27:28,060 INFO] 	* enc: 41956 match, 8048 missing, (83.91%)
+[2019-11-01 20:27:28,060 INFO] 	* dec: 41956 match, 8048 missing, (83.91%)
+[2019-11-01 20:27:28,060 INFO] 
+Filtered embeddings:
+[2019-11-01 20:27:28,060 INFO] 	* enc: torch.Size([50004, 100])
+[2019-11-01 20:27:28,060 INFO] 	* dec: torch.Size([50004, 100])
+[2019-11-01 20:27:28,060 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-01 20:27:28,087 INFO] 
+Done.
+[2019-11-01 20:29:12,518 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 20:29:12,518 INFO] 	* source vocab: 170 words
+[2019-11-01 20:29:12,518 INFO] 	* target vocab: 170 words
+[2019-11-01 20:29:26,161 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 20:29:40,033 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 20:29:40,036 INFO] 
+Matching: 
+[2019-11-01 20:29:40,036 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-01 20:29:40,036 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-01 20:29:40,036 INFO] 
+Filtered embeddings:
+[2019-11-01 20:29:40,036 INFO] 	* enc: torch.Size([170, 100])
+[2019-11-01 20:29:40,036 INFO] 	* dec: torch.Size([170, 100])
+[2019-11-01 20:29:40,036 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-01 20:29:40,041 INFO] 
+Done.
+[2019-11-01 23:19:57,452 INFO] From: ../data/processed.vocab.pt
+[2019-11-01 23:19:57,452 INFO] 	* source vocab: 50004 words
+[2019-11-01 23:19:57,452 INFO] 	* target vocab: 50004 words
+[2019-11-01 23:20:09,290 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 23:20:22,411 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-01 23:20:22,895 INFO] 
+Matching: 
+[2019-11-01 23:20:22,896 INFO] 	* enc: 41956 match, 8048 missing, (83.91%)
+[2019-11-01 23:20:22,896 INFO] 	* dec: 41956 match, 8048 missing, (83.91%)
+[2019-11-01 23:20:22,896 INFO] 
+Filtered embeddings:
+[2019-11-01 23:20:22,896 INFO] 	* enc: torch.Size([50004, 100])
+[2019-11-01 23:20:22,896 INFO] 	* dec: torch.Size([50004, 100])
+[2019-11-01 23:20:22,896 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-01 23:20:22,945 INFO] 
+Done.
+[2019-11-02 13:17:57,121 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 13:17:57,121 INFO] 	* source vocab: 50004 words
+[2019-11-02 13:17:57,121 INFO] 	* target vocab: 50004 words
+[2019-11-02 13:18:13,343 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 13:18:13,344 INFO] 	* source vocab: 170 words
+[2019-11-02 13:18:13,344 INFO] 	* target vocab: 170 words
+[2019-11-02 13:18:25,303 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 13:18:38,585 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 13:18:38,589 INFO] 
+Matching: 
+[2019-11-02 13:18:38,589 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-02 13:18:38,589 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-02 13:18:38,589 INFO] 
+Filtered embeddings:
+[2019-11-02 13:18:38,589 INFO] 	* enc: torch.Size([170, 100])
+[2019-11-02 13:18:38,590 INFO] 	* dec: torch.Size([170, 100])
+[2019-11-02 13:18:38,590 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-02 13:18:38,607 INFO] 
+Done.
+[2019-11-02 13:32:17,602 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 13:32:17,603 INFO] 	* source vocab: 170 words
+[2019-11-02 13:32:17,603 INFO] 	* target vocab: 170 words
+[2019-11-02 13:32:29,721 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 13:32:42,838 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 13:32:42,842 INFO] 
+Matching: 
+[2019-11-02 13:32:42,842 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-02 13:32:42,842 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-02 13:32:42,842 INFO] 
+Filtered embeddings:
+[2019-11-02 13:32:42,842 INFO] 	* enc: torch.Size([170, 100])
+[2019-11-02 13:32:42,842 INFO] 	* dec: torch.Size([170, 100])
+[2019-11-02 13:32:42,842 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-02 13:32:42,843 INFO] 
+Done.
+[2019-11-02 16:06:40,382 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 16:06:40,383 INFO] 	* source vocab: 170 words
+[2019-11-02 16:06:40,383 INFO] 	* target vocab: 170 words
+[2019-11-02 16:06:52,862 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 16:07:07,336 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 16:07:07,340 INFO] 
+Matching: 
+[2019-11-02 16:07:07,340 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-02 16:07:07,340 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-02 16:07:07,340 INFO] 
+Filtered embeddings:
+[2019-11-02 16:07:07,340 INFO] 	* enc: torch.Size([170, 100])
+[2019-11-02 16:07:07,340 INFO] 	* dec: torch.Size([170, 100])
+[2019-11-02 16:07:07,340 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-02 16:07:07,341 INFO] 
+Done.
+[2019-11-02 17:09:07,201 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 17:09:07,201 INFO] 	* source vocab: 170 words
+[2019-11-02 17:09:07,201 INFO] 	* target vocab: 170 words
+[2019-11-02 17:09:25,680 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 17:09:47,834 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 17:09:47,842 INFO] 
+Matching: 
+[2019-11-02 17:09:47,843 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-02 17:09:47,843 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-02 17:09:47,843 INFO] 
+Filtered embeddings:
+[2019-11-02 17:09:47,843 INFO] 	* enc: torch.Size([170, 100])
+[2019-11-02 17:09:47,843 INFO] 	* dec: torch.Size([170, 100])
+[2019-11-02 17:09:47,843 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-02 17:09:47,844 INFO] 
+Done.
+[2019-11-02 18:41:18,181 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 18:41:18,181 INFO] 	* source vocab: 170 words
+[2019-11-02 18:41:18,181 INFO] 	* target vocab: 170 words
+[2019-11-02 18:42:27,021 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 18:42:27,021 INFO] 	* source vocab: 170 words
+[2019-11-02 18:42:27,021 INFO] 	* target vocab: 170 words
+[2019-11-02 18:51:50,572 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 18:51:50,573 INFO] 	* source vocab: 170 words
+[2019-11-02 18:51:50,573 INFO] 	* target vocab: 170 words
+[2019-11-02 18:52:02,746 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 18:52:16,041 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 18:52:16,045 INFO] 
+Matching: 
+[2019-11-02 18:52:16,045 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-02 18:52:16,045 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-02 18:52:16,045 INFO] 
+Filtered embeddings:
+[2019-11-02 18:52:16,045 INFO] 	* enc: torch.Size([170, 100])
+[2019-11-02 18:52:16,045 INFO] 	* dec: torch.Size([170, 100])
+[2019-11-02 18:52:16,045 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-02 18:52:16,046 INFO] 
+Done.
+[2019-11-02 18:54:25,504 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 18:54:25,504 INFO] 	* source vocab: 170 words
+[2019-11-02 18:54:25,504 INFO] 	* target vocab: 170 words
+[2019-11-02 18:59:00,782 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 18:59:00,783 INFO] 	* source vocab: 170 words
+[2019-11-02 18:59:00,783 INFO] 	* target vocab: 170 words
+[2019-11-02 18:59:13,480 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 18:59:13,480 INFO] 	* source vocab: 170 words
+[2019-11-02 18:59:13,480 INFO] 	* target vocab: 170 words
+[2019-11-02 18:59:25,356 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 19:01:37,123 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 19:01:37,123 INFO] 	* source vocab: 170 words
+[2019-11-02 19:01:37,123 INFO] 	* target vocab: 170 words
+[2019-11-02 19:02:38,956 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 19:02:38,957 INFO] 	* source vocab: 170 words
+[2019-11-02 19:02:38,957 INFO] 	* target vocab: 170 words
+[2019-11-02 19:06:01,335 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 19:06:01,335 INFO] 	* source vocab: 170 words
+[2019-11-02 19:06:01,335 INFO] 	* target vocab: 170 words
+[2019-11-02 19:06:13,129 INFO] Got 400000 encryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 19:06:25,999 INFO] Got 400000 decryption embeddings from ../data/glove/glove-1.6B.100d.txt
+[2019-11-02 19:06:26,003 INFO] 
+Matching: 
+[2019-11-02 19:06:26,003 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-02 19:06:26,003 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-02 19:06:26,003 INFO] 
+Filtered embeddings:
+[2019-11-02 19:06:26,003 INFO] 	* enc: torch.Size([170, 100])
+[2019-11-02 19:06:26,003 INFO] 	* dec: torch.Size([170, 100])
+[2019-11-02 19:06:26,003 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-02 19:06:26,004 INFO] 
+Done.
+[2019-11-02 19:11:22,632 INFO] From: ../data/processed.vocab.pt
+[2019-11-02 19:11:22,632 INFO] 	* source vocab: 170 words
+[2019-11-02 19:11:22,632 INFO] 	* target vocab: 170 words
+[2019-11-03 13:37:05,555 INFO] From: ../data/processed.vocab.pt
+[2019-11-03 13:37:05,555 INFO] 	* source vocab: 170 words
+[2019-11-03 13:37:05,555 INFO] 	* target vocab: 170 words
+[2019-11-03 13:37:29,705 INFO] From: ../data/processed.vocab.pt
+[2019-11-03 13:37:29,705 INFO] 	* source vocab: 170 words
+[2019-11-03 13:37:29,705 INFO] 	* target vocab: 170 words
+[2019-11-03 13:37:36,081 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-03 13:37:43,075 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-03 13:37:43,077 INFO] 
+Matching: 
+[2019-11-03 13:37:43,077 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-03 13:37:43,077 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-03 13:37:43,077 INFO] 
+Filtered embeddings:
+[2019-11-03 13:37:43,077 INFO] 	* enc: torch.Size([170, 50])
+[2019-11-03 13:37:43,078 INFO] 	* dec: torch.Size([170, 50])
+[2019-11-03 13:37:43,078 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-03 13:37:43,078 INFO] 
+Done.
+[2019-11-04 16:12:35,901 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 16:12:35,901 INFO] 	* source vocab: 170 words
+[2019-11-04 16:12:35,901 INFO] 	* target vocab: 170 words
+[2019-11-04 16:12:42,056 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-04 16:12:48,830 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-04 16:12:48,833 INFO] 
+Matching: 
+[2019-11-04 16:12:48,833 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-04 16:12:48,833 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-04 16:12:48,833 INFO] 
+Filtered embeddings:
+[2019-11-04 16:12:48,833 INFO] 	* enc: torch.Size([170, 50])
+[2019-11-04 16:12:48,833 INFO] 	* dec: torch.Size([170, 50])
+[2019-11-04 16:12:48,833 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-04 16:12:48,834 INFO] 
+Done.
+[2019-11-04 16:13:17,755 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 16:13:17,755 INFO] 	* source vocab: 170 words
+[2019-11-04 16:13:17,755 INFO] 	* target vocab: 170 words
+[2019-11-04 16:13:23,828 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-04 16:13:30,493 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-04 16:13:30,496 INFO] 
+Matching: 
+[2019-11-04 16:13:30,496 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-04 16:13:30,496 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-04 16:13:30,496 INFO] 
+Filtered embeddings:
+[2019-11-04 16:13:30,496 INFO] 	* enc: torch.Size([170, 50])
+[2019-11-04 16:13:30,496 INFO] 	* dec: torch.Size([170, 50])
+[2019-11-04 16:13:30,496 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-04 16:13:30,497 INFO] 
+Done.
+[2019-11-04 20:53:29,930 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 20:53:29,930 INFO] 	* source vocab: 170 words
+[2019-11-04 20:53:29,930 INFO] 	* target vocab: 170 words
+[2019-11-04 20:53:40,505 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 20:53:40,506 INFO] 	* source vocab: 54 words
+[2019-11-04 20:53:40,506 INFO] 	* target vocab: 54 words
+[2019-11-04 20:53:54,068 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 20:53:54,068 INFO] 	* source vocab: 9 words
+[2019-11-04 20:53:54,068 INFO] 	* target vocab: 9 words
+[2019-11-04 20:54:00,172 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-04 20:54:47,174 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 20:54:47,174 INFO] 	* source vocab: 9 words
+[2019-11-04 20:54:47,174 INFO] 	* target vocab: 9 words
+[2019-11-04 20:55:05,855 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 20:55:05,855 INFO] 	* source vocab: 9 words
+[2019-11-04 20:55:05,855 INFO] 	* target vocab: 9 words
+[2019-11-04 20:55:13,566 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 20:55:13,566 INFO] 	* source vocab: 9 words
+[2019-11-04 20:55:13,566 INFO] 	* target vocab: 9 words
+[2019-11-04 20:55:44,707 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 20:55:44,707 INFO] 	* source vocab: 9 words
+[2019-11-04 20:55:44,707 INFO] 	* target vocab: 9 words
+[2019-11-04 20:56:03,004 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 20:56:03,004 INFO] 	* source vocab: 9 words
+[2019-11-04 20:56:03,005 INFO] 	* target vocab: 9 words
+[2019-11-04 20:56:11,666 INFO] From: ../data/processed.vocab.pt
+[2019-11-04 20:56:11,666 INFO] 	* source vocab: 170 words
+[2019-11-04 20:56:11,666 INFO] 	* target vocab: 170 words
+[2019-11-04 20:56:17,745 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-04 20:56:24,399 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-04 20:56:24,402 INFO] 
+Matching: 
+[2019-11-04 20:56:24,402 INFO] 	* enc: 166 match, 4 missing, (97.65%)
+[2019-11-04 20:56:24,402 INFO] 	* dec: 166 match, 4 missing, (97.65%)
+[2019-11-04 20:56:24,402 INFO] 
+Filtered embeddings:
+[2019-11-04 20:56:24,402 INFO] 	* enc: torch.Size([170, 50])
+[2019-11-04 20:56:24,402 INFO] 	* dec: torch.Size([170, 50])
+[2019-11-04 20:56:24,402 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-04 20:56:24,403 INFO] 
+Done.
+[2019-11-06 15:40:58,757 INFO] From: ../data/processed.vocab.pt
+[2019-11-06 15:40:58,757 INFO] 	* source vocab: 383 words
+[2019-11-06 15:40:58,757 INFO] 	* target vocab: 383 words
+[2019-11-06 15:41:04,949 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-06 15:41:11,753 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-06 15:41:11,758 INFO] 
+Matching: 
+[2019-11-06 15:41:11,758 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:41:11,758 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:41:11,758 INFO] 
+Filtered embeddings:
+[2019-11-06 15:41:11,758 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-06 15:41:11,758 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-06 15:41:11,758 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-06 15:41:11,759 INFO] 
+Done.
+[2019-11-06 15:48:16,678 INFO] From: ../data/processed.vocab.pt
+[2019-11-06 15:48:16,678 INFO] 	* source vocab: 383 words
+[2019-11-06 15:48:16,678 INFO] 	* target vocab: 383 words
+[2019-11-06 15:48:22,860 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-06 15:48:22,864 INFO] 
+Matching: 
+[2019-11-06 15:48:22,864 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:48:22,864 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:48:22,864 INFO] 
+Filtered embeddings:
+[2019-11-06 15:48:22,864 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-06 15:48:22,865 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-06 15:48:22,865 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-06 15:48:22,865 INFO] 
+Done.
+[2019-11-06 15:49:18,960 INFO] From: ../data/processed.vocab.pt
+[2019-11-06 15:49:18,961 INFO] 	* source vocab: 383 words
+[2019-11-06 15:49:18,961 INFO] 	* target vocab: 383 words
+[2019-11-06 15:49:25,058 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-06 15:49:25,062 INFO] 
+Matching: 
+[2019-11-06 15:49:25,062 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:49:25,062 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:49:25,063 INFO] 
+Filtered embeddings:
+[2019-11-06 15:49:25,063 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-06 15:49:25,063 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-06 15:49:25,063 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-06 15:49:25,063 INFO] 
+Done.
+[2019-11-06 15:50:29,544 INFO] From: ../data/processed.vocab.pt
+[2019-11-06 15:50:29,544 INFO] 	* source vocab: 383 words
+[2019-11-06 15:50:29,544 INFO] 	* target vocab: 383 words
+[2019-11-06 15:50:35,707 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-06 15:50:35,711 INFO] 
+Matching: 
+[2019-11-06 15:50:35,711 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:50:35,711 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:50:35,711 INFO] 
+Filtered embeddings:
+[2019-11-06 15:50:35,711 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-06 15:50:35,711 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-06 15:50:35,711 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-06 15:50:35,712 INFO] 
+Done.
+[2019-11-06 15:56:41,522 INFO] From: ../data/processed.vocab.pt
+[2019-11-06 15:56:41,522 INFO] 	* source vocab: 383 words
+[2019-11-06 15:56:41,522 INFO] 	* target vocab: 383 words
+[2019-11-06 15:56:47,592 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-06 15:56:47,596 INFO] 
+Matching: 
+[2019-11-06 15:56:47,596 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:56:47,596 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:56:47,596 INFO] 
+Filtered embeddings:
+[2019-11-06 15:56:47,596 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-06 15:56:47,596 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-06 15:56:47,596 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-06 15:56:47,597 INFO] 
+Done.
+[2019-11-06 15:58:50,732 INFO] From: ../data/processed.vocab.pt
+[2019-11-06 15:58:50,732 INFO] 	* source vocab: 383 words
+[2019-11-06 15:58:50,732 INFO] 	* target vocab: 383 words
+[2019-11-06 15:59:04,089 INFO] From: ../data/processed.vocab.pt
+[2019-11-06 15:59:04,089 INFO] 	* source vocab: 383 words
+[2019-11-06 15:59:04,089 INFO] 	* target vocab: 383 words
+[2019-11-06 15:59:39,747 INFO] From: ../data/processed.vocab.pt
+[2019-11-06 15:59:39,748 INFO] 	* source vocab: 383 words
+[2019-11-06 15:59:39,748 INFO] 	* target vocab: 383 words
+[2019-11-06 15:59:45,849 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-06 15:59:45,853 INFO] 
+Matching: 
+[2019-11-06 15:59:45,853 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:59:45,853 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-06 15:59:45,853 INFO] 
+Filtered embeddings:
+[2019-11-06 15:59:45,853 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-06 15:59:45,853 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-06 15:59:45,853 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-06 15:59:45,854 INFO] 
+Done.
+[2019-11-06 16:04:10,609 INFO] From: ../data/processed.vocab.pt
+[2019-11-06 16:04:10,610 INFO] 	* source vocab: 383 words
+[2019-11-06 16:04:10,610 INFO] 	* target vocab: 383 words
+[2019-11-06 16:04:16,832 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-06 16:04:16,836 INFO] 
+Matching: 
+[2019-11-06 16:04:16,836 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-06 16:04:16,837 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-06 16:04:16,837 INFO] 
+Filtered embeddings:
+[2019-11-06 16:04:16,837 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-06 16:04:16,837 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-06 16:04:16,837 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-06 16:04:16,837 INFO] 
+Done.
+[2019-11-07 10:36:36,851 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 10:36:36,851 INFO] 	* source vocab: 383 words
+[2019-11-07 10:36:36,851 INFO] 	* target vocab: 383 words
+[2019-11-07 10:36:42,945 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 10:36:42,949 INFO] 
+Matching: 
+[2019-11-07 10:36:42,949 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 10:36:42,949 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 10:36:42,949 INFO] 
+Filtered embeddings:
+[2019-11-07 10:36:42,950 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 10:36:42,950 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 10:36:42,950 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 10:36:42,950 INFO] 
+Done.
+[2019-11-07 11:19:56,706 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:19:56,706 INFO] 	* source vocab: 383 words
+[2019-11-07 11:19:56,706 INFO] 	* target vocab: 383 words
+[2019-11-07 11:20:02,837 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:20:02,841 INFO] 
+Matching: 
+[2019-11-07 11:20:02,841 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:20:02,841 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:20:02,841 INFO] 
+Filtered embeddings:
+[2019-11-07 11:20:02,842 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 11:20:02,842 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 11:20:02,842 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 11:20:02,842 INFO] 
+Done.
+[2019-11-07 11:21:40,938 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:21:40,938 INFO] 	* source vocab: 170 words
+[2019-11-07 11:21:40,938 INFO] 	* target vocab: 170 words
+[2019-11-07 11:22:43,235 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:22:43,235 INFO] 	* source vocab: 383 words
+[2019-11-07 11:22:43,235 INFO] 	* target vocab: 383 words
+[2019-11-07 11:22:49,354 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:22:49,358 INFO] 
+Matching: 
+[2019-11-07 11:22:49,358 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:22:49,358 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:22:49,358 INFO] 
+Filtered embeddings:
+[2019-11-07 11:22:49,359 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 11:22:49,359 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 11:22:49,359 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 11:22:49,359 INFO] 
+Done.
+[2019-11-07 11:23:37,370 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:23:37,370 INFO] 	* source vocab: 383 words
+[2019-11-07 11:23:37,370 INFO] 	* target vocab: 383 words
+[2019-11-07 11:25:46,755 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:25:46,755 INFO] 	* source vocab: 383 words
+[2019-11-07 11:25:46,755 INFO] 	* target vocab: 383 words
+[2019-11-07 11:26:03,762 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:26:03,762 INFO] 	* source vocab: 383 words
+[2019-11-07 11:26:03,762 INFO] 	* target vocab: 383 words
+[2019-11-07 11:32:04,349 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:32:04,349 INFO] 	* source vocab: 383 words
+[2019-11-07 11:32:04,349 INFO] 	* target vocab: 383 words
+[2019-11-07 11:32:19,574 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:32:19,574 INFO] 	* source vocab: 383 words
+[2019-11-07 11:32:19,574 INFO] 	* target vocab: 383 words
+[2019-11-07 11:33:27,726 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:33:27,727 INFO] 	* source vocab: 383 words
+[2019-11-07 11:33:27,727 INFO] 	* target vocab: 383 words
+[2019-11-07 11:36:55,202 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:36:55,202 INFO] 	* source vocab: 383 words
+[2019-11-07 11:36:55,202 INFO] 	* target vocab: 383 words
+[2019-11-07 11:38:36,962 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:38:36,962 INFO] 	* source vocab: 383 words
+[2019-11-07 11:38:36,962 INFO] 	* target vocab: 383 words
+[2019-11-07 11:41:16,332 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:41:16,332 INFO] 	* source vocab: 383 words
+[2019-11-07 11:41:16,332 INFO] 	* target vocab: 383 words
+[2019-11-07 11:41:39,064 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:41:39,064 INFO] 	* source vocab: 383 words
+[2019-11-07 11:41:39,064 INFO] 	* target vocab: 383 words
+[2019-11-07 11:42:29,494 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:42:29,495 INFO] 	* source vocab: 383 words
+[2019-11-07 11:42:29,495 INFO] 	* target vocab: 383 words
+[2019-11-07 11:43:28,854 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:43:28,854 INFO] 	* source vocab: 383 words
+[2019-11-07 11:43:28,854 INFO] 	* target vocab: 383 words
+[2019-11-07 11:44:55,714 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:44:55,714 INFO] 	* source vocab: 383 words
+[2019-11-07 11:44:55,714 INFO] 	* target vocab: 383 words
+[2019-11-07 11:46:46,428 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:46:46,428 INFO] 	* source vocab: 383 words
+[2019-11-07 11:46:46,428 INFO] 	* target vocab: 383 words
+[2019-11-07 11:49:33,715 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:49:33,716 INFO] 	* source vocab: 383 words
+[2019-11-07 11:49:33,716 INFO] 	* target vocab: 383 words
+[2019-11-07 11:49:39,792 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:49:46,492 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:49:46,499 INFO] 
+Matching: 
+[2019-11-07 11:49:46,499 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:49:46,499 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:49:46,499 INFO] 
+Filtered embeddings:
+[2019-11-07 11:49:46,499 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 11:49:46,499 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 11:49:46,500 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 11:49:46,500 INFO] 
+Done.
+[2019-11-07 11:51:32,517 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:51:32,518 INFO] 	* source vocab: 383 words
+[2019-11-07 11:51:32,518 INFO] 	* target vocab: 383 words
+[2019-11-07 11:51:38,581 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:51:45,274 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:51:45,278 INFO] 
+Matching: 
+[2019-11-07 11:51:45,278 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:51:45,278 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:51:45,278 INFO] 
+Filtered embeddings:
+[2019-11-07 11:51:45,279 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 11:51:45,279 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 11:51:45,279 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 11:51:45,279 INFO] 
+Done.
+[2019-11-07 11:51:54,069 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:51:54,069 INFO] 	* source vocab: 383 words
+[2019-11-07 11:51:54,069 INFO] 	* target vocab: 383 words
+[2019-11-07 11:52:10,844 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:52:10,844 INFO] 	* source vocab: 383 words
+[2019-11-07 11:52:10,844 INFO] 	* target vocab: 383 words
+[2019-11-07 11:52:16,922 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:52:23,571 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:52:23,577 INFO] 
+Matching: 
+[2019-11-07 11:52:23,577 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:52:23,577 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:52:23,577 INFO] 
+Filtered embeddings:
+[2019-11-07 11:52:23,577 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 11:52:23,577 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 11:52:23,577 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 11:52:23,578 INFO] 
+Done.
+[2019-11-07 11:53:50,853 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:53:50,853 INFO] 	* source vocab: 383 words
+[2019-11-07 11:53:50,853 INFO] 	* target vocab: 383 words
+[2019-11-07 11:53:57,016 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:54:03,760 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:54:03,786 INFO] 
+Matching: 
+[2019-11-07 11:54:03,786 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:54:03,786 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:54:03,786 INFO] 
+Filtered embeddings:
+[2019-11-07 11:54:03,786 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 11:54:03,786 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 11:54:03,786 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 11:54:03,787 INFO] 
+Done.
+[2019-11-07 11:55:14,796 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:55:14,796 INFO] 	* source vocab: 383 words
+[2019-11-07 11:55:14,796 INFO] 	* target vocab: 383 words
+[2019-11-07 11:55:20,936 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:55:27,664 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:55:27,689 INFO] 
+Matching: 
+[2019-11-07 11:55:27,689 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:55:27,689 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:55:27,689 INFO] 
+Filtered embeddings:
+[2019-11-07 11:55:27,689 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 11:55:27,689 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 11:55:27,689 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 11:55:27,690 INFO] 
+Done.
+[2019-11-07 11:55:39,339 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:55:39,339 INFO] 	* source vocab: 383 words
+[2019-11-07 11:55:39,339 INFO] 	* target vocab: 383 words
+[2019-11-07 11:55:48,107 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:55:54,810 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:55:54,834 INFO] 
+Matching: 
+[2019-11-07 11:55:54,834 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:55:54,834 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:55:54,834 INFO] 
+Filtered embeddings:
+[2019-11-07 11:55:54,835 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 11:55:54,835 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 11:55:54,835 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 11:55:54,835 INFO] 
+Done.
+[2019-11-07 11:57:14,783 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 11:57:14,783 INFO] 	* source vocab: 383 words
+[2019-11-07 11:57:14,784 INFO] 	* target vocab: 383 words
+[2019-11-07 11:57:26,259 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:57:40,292 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 11:57:40,299 INFO] 
+Matching: 
+[2019-11-07 11:57:40,299 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:57:40,299 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 11:57:40,299 INFO] 
+Filtered embeddings:
+[2019-11-07 11:57:40,299 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 11:57:40,299 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 11:57:40,299 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 11:57:40,301 INFO] 
+Done.
+[2019-11-07 13:07:05,978 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 13:07:05,978 INFO] 	* source vocab: 383 words
+[2019-11-07 13:07:05,978 INFO] 	* target vocab: 383 words
+[2019-11-07 13:07:12,075 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 13:07:28,185 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 13:07:28,186 INFO] 	* source vocab: 383 words
+[2019-11-07 13:07:28,186 INFO] 	* target vocab: 383 words
+[2019-11-07 13:08:09,206 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 13:08:09,206 INFO] 	* source vocab: 383 words
+[2019-11-07 13:08:09,206 INFO] 	* target vocab: 383 words
+[2019-11-07 13:25:15,890 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 13:25:15,890 INFO] 	* source vocab: 383 words
+[2019-11-07 13:25:15,890 INFO] 	* target vocab: 383 words
+[2019-11-07 13:27:41,790 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 13:27:41,791 INFO] 	* source vocab: 383 words
+[2019-11-07 13:27:41,791 INFO] 	* target vocab: 383 words
+[2019-11-07 13:27:51,011 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 13:28:01,275 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 13:28:01,280 INFO] 
+Matching: 
+[2019-11-07 13:28:01,280 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 13:28:01,280 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 13:28:01,280 INFO] 
+Filtered embeddings:
+[2019-11-07 13:28:01,280 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 13:28:01,281 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 13:28:01,281 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 13:28:01,283 INFO] 
+Done.
+[2019-11-07 13:35:47,219 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 13:35:47,220 INFO] 	* source vocab: 383 words
+[2019-11-07 13:35:47,220 INFO] 	* target vocab: 383 words
+[2019-11-07 13:35:56,598 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 13:36:07,323 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 13:36:07,329 INFO] 
+Matching: 
+[2019-11-07 13:36:07,329 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 13:36:07,329 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 13:36:07,330 INFO] 
+Filtered embeddings:
+[2019-11-07 13:36:07,330 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 13:36:07,330 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 13:36:07,330 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 13:36:07,332 INFO] 
+Done.
+[2019-11-07 15:58:08,238 INFO] From: ../data/processed.vocab.pt
+[2019-11-07 15:58:08,239 INFO] 	* source vocab: 383 words
+[2019-11-07 15:58:08,239 INFO] 	* target vocab: 383 words
+[2019-11-07 15:58:17,171 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 15:58:27,766 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-07 15:58:27,771 INFO] 
+Matching: 
+[2019-11-07 15:58:27,772 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-07 15:58:27,772 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-07 15:58:27,772 INFO] 
+Filtered embeddings:
+[2019-11-07 15:58:27,772 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-07 15:58:27,772 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-07 15:58:27,772 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-07 15:58:27,774 INFO] 
+Done.
+[2019-11-09 13:37:26,131 INFO] From: ../data/processed.vocab.pt
+[2019-11-09 13:37:26,168 INFO] 	* source vocab: 383 words
+[2019-11-09 13:37:26,169 INFO] 	* target vocab: 383 words
+[2019-11-09 13:37:32,597 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-09 13:37:39,369 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-09 13:37:39,513 INFO] 
+Matching: 
+[2019-11-09 13:37:39,513 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-09 13:37:39,513 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-09 13:37:39,514 INFO] 
+Filtered embeddings:
+[2019-11-09 13:37:39,522 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-09 13:37:39,522 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-09 13:37:39,522 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-09 13:37:39,531 INFO] 
+Done.
+[2019-11-09 18:18:10,620 INFO] From: ../data/processed.vocab.pt
+[2019-11-09 18:18:10,620 INFO] 	* source vocab: 383 words
+[2019-11-09 18:18:10,620 INFO] 	* target vocab: 383 words
+[2019-11-09 18:18:16,684 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-09 18:18:23,375 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-09 18:18:23,379 INFO] 
+Matching: 
+[2019-11-09 18:18:23,379 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-09 18:18:23,379 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-09 18:18:23,379 INFO] 
+Filtered embeddings:
+[2019-11-09 18:18:23,380 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-09 18:18:23,380 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-09 18:18:23,380 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-09 18:18:23,380 INFO] 
+Done.
+[2019-11-11 09:38:19,945 INFO] From: ../data/processed.vocab.pt
+[2019-11-11 09:38:19,956 INFO] 	* source vocab: 383 words
+[2019-11-11 09:38:19,956 INFO] 	* target vocab: 383 words
+[2019-11-11 09:38:26,572 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-11 09:38:33,545 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-11 09:38:33,549 INFO] 
+Matching: 
+[2019-11-11 09:38:33,549 INFO] 	* enc: 379 match, 4 missing, (98.96%)
+[2019-11-11 09:38:33,549 INFO] 	* dec: 379 match, 4 missing, (98.96%)
+[2019-11-11 09:38:33,549 INFO] 
+Filtered embeddings:
+[2019-11-11 09:38:33,550 INFO] 	* enc: torch.Size([383, 50])
+[2019-11-11 09:38:33,550 INFO] 	* dec: torch.Size([383, 50])
+[2019-11-11 09:38:33,550 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-11 09:38:33,550 INFO] 
+Done.
+[2019-11-12 13:37:23,605 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 13:37:23,630 INFO] 	* source vocab: 383 words
+[2019-11-12 13:37:23,630 INFO] 	* target vocab: 383 words
+[2019-11-12 13:38:27,113 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 13:38:27,114 INFO] 	* source vocab: 224 words
+[2019-11-12 13:38:27,114 INFO] 	* target vocab: 224 words
+[2019-11-12 13:38:33,272 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 13:38:40,034 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 13:38:40,155 INFO] 
+Matching: 
+[2019-11-12 13:38:40,155 INFO] 	* enc: 220 match, 4 missing, (98.21%)
+[2019-11-12 13:38:40,156 INFO] 	* dec: 220 match, 4 missing, (98.21%)
+[2019-11-12 13:38:40,156 INFO] 
+Filtered embeddings:
+[2019-11-12 13:38:40,165 INFO] 	* enc: torch.Size([224, 50])
+[2019-11-12 13:38:40,165 INFO] 	* dec: torch.Size([224, 50])
+[2019-11-12 13:38:40,165 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-12 13:38:40,169 INFO] 
+Done.
+[2019-11-12 13:40:04,044 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 13:40:04,044 INFO] 	* source vocab: 224 words
+[2019-11-12 13:40:04,044 INFO] 	* target vocab: 224 words
+[2019-11-12 13:40:16,248 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 13:40:16,248 INFO] 	* source vocab: 356 words
+[2019-11-12 13:40:16,248 INFO] 	* target vocab: 356 words
+[2019-11-12 13:40:27,024 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 13:40:27,024 INFO] 	* source vocab: 224 words
+[2019-11-12 13:40:27,024 INFO] 	* target vocab: 224 words
+[2019-11-12 13:40:52,477 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 13:40:52,477 INFO] 	* source vocab: 356 words
+[2019-11-12 13:40:52,478 INFO] 	* target vocab: 356 words
+[2019-11-12 13:40:58,641 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 18:55:14,414 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 18:55:14,414 INFO] 	* source vocab: 356 words
+[2019-11-12 18:55:14,414 INFO] 	* target vocab: 356 words
+[2019-11-12 18:56:15,838 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 18:56:15,838 INFO] 	* source vocab: 356 words
+[2019-11-12 18:56:15,839 INFO] 	* target vocab: 356 words
+[2019-11-12 18:56:21,934 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 18:56:28,670 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 18:56:28,674 INFO] 
+Matching: 
+[2019-11-12 18:56:28,674 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-12 18:56:28,674 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-12 18:56:28,674 INFO] 
+Filtered embeddings:
+[2019-11-12 18:56:28,674 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-12 18:56:28,674 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-12 18:56:28,674 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-12 18:56:28,675 INFO] 
+Done.
+[2019-11-12 18:57:24,839 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 18:57:24,839 INFO] 	* source vocab: 224 words
+[2019-11-12 18:57:24,839 INFO] 	* target vocab: 224 words
+[2019-11-12 18:57:31,188 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 18:57:38,176 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 18:57:38,179 INFO] 
+Matching: 
+[2019-11-12 18:57:38,179 INFO] 	* enc: 220 match, 4 missing, (98.21%)
+[2019-11-12 18:57:38,179 INFO] 	* dec: 220 match, 4 missing, (98.21%)
+[2019-11-12 18:57:38,179 INFO] 
+Filtered embeddings:
+[2019-11-12 18:57:38,179 INFO] 	* enc: torch.Size([224, 50])
+[2019-11-12 18:57:38,179 INFO] 	* dec: torch.Size([224, 50])
+[2019-11-12 18:57:38,179 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-12 18:57:38,180 INFO] 
+Done.
+[2019-11-12 18:57:56,000 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 18:57:56,001 INFO] 	* source vocab: 224 words
+[2019-11-12 18:57:56,001 INFO] 	* target vocab: 224 words
+[2019-11-12 19:00:20,296 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 19:00:20,296 INFO] 	* source vocab: 224 words
+[2019-11-12 19:00:20,296 INFO] 	* target vocab: 224 words
+[2019-11-12 19:00:26,444 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 19:00:31,272 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 19:00:31,272 INFO] 	* source vocab: 224 words
+[2019-11-12 19:00:31,272 INFO] 	* target vocab: 224 words
+[2019-11-12 19:00:37,461 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 19:00:45,828 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 19:00:45,828 INFO] 	* source vocab: 224 words
+[2019-11-12 19:00:45,828 INFO] 	* target vocab: 224 words
+[2019-11-12 19:00:56,279 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 19:00:56,279 INFO] 	* source vocab: 356 words
+[2019-11-12 19:00:56,279 INFO] 	* target vocab: 356 words
+[2019-11-12 19:01:05,587 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 19:01:05,587 INFO] 	* source vocab: 356 words
+[2019-11-12 19:01:05,587 INFO] 	* target vocab: 356 words
+[2019-11-12 19:04:41,590 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 19:04:41,590 INFO] 	* source vocab: 224 words
+[2019-11-12 19:04:41,590 INFO] 	* target vocab: 224 words
+[2019-11-12 19:04:47,729 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 19:04:55,591 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 19:04:55,591 INFO] 	* source vocab: 356 words
+[2019-11-12 19:04:55,591 INFO] 	* target vocab: 356 words
+[2019-11-12 19:05:01,822 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 19:05:08,630 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-12 19:05:08,634 INFO] 
+Matching: 
+[2019-11-12 19:05:08,634 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-12 19:05:08,634 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-12 19:05:08,634 INFO] 
+Filtered embeddings:
+[2019-11-12 19:05:08,634 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-12 19:05:08,634 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-12 19:05:08,634 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-12 19:05:08,635 INFO] 
+Done.
+[2019-11-12 19:05:22,857 INFO] From: ../data/processed.vocab.pt
+[2019-11-12 19:05:22,858 INFO] 	* source vocab: 356 words
+[2019-11-12 19:05:22,858 INFO] 	* target vocab: 356 words
+[2019-11-13 14:34:13,219 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 14:34:13,219 INFO] 	* source vocab: 356 words
+[2019-11-13 14:34:13,219 INFO] 	* target vocab: 356 words
+[2019-11-13 14:34:19,336 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:34:26,086 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:34:26,090 INFO] 
+Matching: 
+[2019-11-13 14:34:26,090 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-13 14:34:26,090 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-13 14:34:26,090 INFO] 
+Filtered embeddings:
+[2019-11-13 14:34:26,090 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-13 14:34:26,091 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-13 14:34:26,091 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 14:34:26,091 INFO] 
+Done.
+[2019-11-13 14:38:06,448 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 14:38:06,448 INFO] 	* source vocab: 356 words
+[2019-11-13 14:38:06,448 INFO] 	* target vocab: 356 words
+[2019-11-13 14:38:20,099 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 14:38:20,099 INFO] 	* source vocab: 204 words
+[2019-11-13 14:38:20,099 INFO] 	* target vocab: 204 words
+[2019-11-13 14:38:26,172 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:38:32,850 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:38:32,852 INFO] 
+Matching: 
+[2019-11-13 14:38:32,852 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 14:38:32,852 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 14:38:32,853 INFO] 
+Filtered embeddings:
+[2019-11-13 14:38:32,853 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 14:38:32,853 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 14:38:32,853 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 14:38:32,853 INFO] 
+Done.
+[2019-11-13 14:40:48,761 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 14:40:48,761 INFO] 	* source vocab: 204 words
+[2019-11-13 14:40:48,761 INFO] 	* target vocab: 204 words
+[2019-11-13 14:40:54,850 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:41:01,548 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:41:01,550 INFO] 
+Matching: 
+[2019-11-13 14:41:01,550 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 14:41:01,550 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 14:41:01,550 INFO] 
+Filtered embeddings:
+[2019-11-13 14:41:01,551 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 14:41:01,551 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 14:41:01,551 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 14:41:01,551 INFO] 
+Done.
+[2019-11-13 14:41:33,847 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 14:41:33,847 INFO] 	* source vocab: 204 words
+[2019-11-13 14:41:33,847 INFO] 	* target vocab: 204 words
+[2019-11-13 14:41:40,007 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:41:46,766 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:41:46,768 INFO] 
+Matching: 
+[2019-11-13 14:41:46,768 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 14:41:46,769 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 14:41:46,769 INFO] 
+Filtered embeddings:
+[2019-11-13 14:41:46,769 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 14:41:46,769 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 14:41:46,769 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 14:41:46,769 INFO] 
+Done.
+[2019-11-13 14:58:33,708 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 14:58:33,708 INFO] 	* source vocab: 204 words
+[2019-11-13 14:58:33,708 INFO] 	* target vocab: 204 words
+[2019-11-13 14:58:39,764 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:58:46,429 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 14:58:46,431 INFO] 
+Matching: 
+[2019-11-13 14:58:46,432 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 14:58:46,432 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 14:58:46,432 INFO] 
+Filtered embeddings:
+[2019-11-13 14:58:46,432 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 14:58:46,432 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 14:58:46,432 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 14:58:46,432 INFO] 
+Done.
+[2019-11-13 15:00:54,370 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:00:54,370 INFO] 	* source vocab: 204 words
+[2019-11-13 15:00:54,370 INFO] 	* target vocab: 204 words
+[2019-11-13 15:01:00,558 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:01:07,392 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:01:07,395 INFO] 
+Matching: 
+[2019-11-13 15:01:07,395 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:01:07,395 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:01:07,395 INFO] 
+Filtered embeddings:
+[2019-11-13 15:01:07,395 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 15:01:07,395 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 15:01:07,396 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:01:07,396 INFO] 
+Done.
+[2019-11-13 15:04:00,523 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:04:00,523 INFO] 	* source vocab: 204 words
+[2019-11-13 15:04:00,523 INFO] 	* target vocab: 204 words
+[2019-11-13 15:04:06,600 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:04:13,284 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:04:13,286 INFO] 
+Matching: 
+[2019-11-13 15:04:13,286 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:04:13,286 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:04:13,286 INFO] 
+Filtered embeddings:
+[2019-11-13 15:04:13,287 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 15:04:13,287 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 15:04:13,287 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:04:13,287 INFO] 
+Done.
+[2019-11-13 15:04:37,482 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:04:37,482 INFO] 	* source vocab: 204 words
+[2019-11-13 15:04:37,482 INFO] 	* target vocab: 204 words
+[2019-11-13 15:04:43,563 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:04:50,250 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:04:50,253 INFO] 
+Matching: 
+[2019-11-13 15:04:50,253 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:04:50,253 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:04:50,253 INFO] 
+Filtered embeddings:
+[2019-11-13 15:04:50,253 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 15:04:50,254 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 15:04:50,254 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:04:50,254 INFO] 
+Done.
+[2019-11-13 15:06:04,419 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:06:04,419 INFO] 	* source vocab: 204 words
+[2019-11-13 15:06:04,419 INFO] 	* target vocab: 204 words
+[2019-11-13 15:06:10,505 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:06:17,207 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:06:17,210 INFO] 
+Matching: 
+[2019-11-13 15:06:17,210 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:06:17,210 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:06:17,210 INFO] 
+Filtered embeddings:
+[2019-11-13 15:06:17,210 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 15:06:17,211 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 15:06:17,211 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:06:17,211 INFO] 
+Done.
+[2019-11-13 15:07:42,525 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:07:42,525 INFO] 	* source vocab: 204 words
+[2019-11-13 15:07:42,525 INFO] 	* target vocab: 204 words
+[2019-11-13 15:07:48,785 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:07:55,668 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:07:55,670 INFO] 
+Matching: 
+[2019-11-13 15:07:55,670 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:07:55,670 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:07:55,671 INFO] 
+Filtered embeddings:
+[2019-11-13 15:07:55,671 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 15:07:55,671 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 15:07:55,671 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:07:55,671 INFO] 
+Done.
+[2019-11-13 15:09:42,878 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:09:42,879 INFO] 	* source vocab: 204 words
+[2019-11-13 15:09:42,879 INFO] 	* target vocab: 204 words
+[2019-11-13 15:09:49,034 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:09:55,827 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:09:55,830 INFO] 
+Matching: 
+[2019-11-13 15:09:55,831 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:09:55,831 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:09:55,831 INFO] 
+Filtered embeddings:
+[2019-11-13 15:09:55,831 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 15:09:55,831 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 15:09:55,831 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:09:55,831 INFO] 
+Done.
+[2019-11-13 15:12:33,804 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:12:33,804 INFO] 	* source vocab: 204 words
+[2019-11-13 15:12:33,804 INFO] 	* target vocab: 204 words
+[2019-11-13 15:12:39,865 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:12:46,562 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:12:46,565 INFO] 
+Matching: 
+[2019-11-13 15:12:46,565 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:12:46,565 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:12:46,566 INFO] 
+Filtered embeddings:
+[2019-11-13 15:12:46,566 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 15:12:46,566 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 15:12:46,566 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:12:46,566 INFO] 
+Done.
+[2019-11-13 15:14:51,507 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:14:51,507 INFO] 	* source vocab: 204 words
+[2019-11-13 15:14:51,507 INFO] 	* target vocab: 204 words
+[2019-11-13 15:14:57,727 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:15:04,593 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:15:04,596 INFO] 
+Matching: 
+[2019-11-13 15:15:04,596 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:15:04,596 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:15:04,596 INFO] 
+Filtered embeddings:
+[2019-11-13 15:15:04,596 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 15:15:04,596 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 15:15:04,596 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:15:04,597 INFO] 
+Done.
+[2019-11-13 15:17:04,379 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:17:04,380 INFO] 	* source vocab: 204 words
+[2019-11-13 15:17:04,380 INFO] 	* target vocab: 204 words
+[2019-11-13 15:17:10,442 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:17:17,113 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:17:17,116 INFO] 
+Matching: 
+[2019-11-13 15:17:17,116 INFO] 	* enc: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:17:17,116 INFO] 	* dec: 199 match, 5 missing, (97.55%)
+[2019-11-13 15:17:17,116 INFO] 
+Filtered embeddings:
+[2019-11-13 15:17:17,116 INFO] 	* enc: torch.Size([204, 50])
+[2019-11-13 15:17:17,116 INFO] 	* dec: torch.Size([204, 50])
+[2019-11-13 15:17:17,116 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:17:17,117 INFO] 
+Done.
+[2019-11-13 15:26:10,392 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:26:10,392 INFO] 	* source vocab: 7222 words
+[2019-11-13 15:26:10,392 INFO] 	* target vocab: 7222 words
+[2019-11-13 15:26:16,538 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:26:23,341 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:26:23,427 INFO] 
+Matching: 
+[2019-11-13 15:26:23,427 INFO] 	* enc: 7052 match, 170 missing, (97.65%)
+[2019-11-13 15:26:23,427 INFO] 	* dec: 7052 match, 170 missing, (97.65%)
+[2019-11-13 15:26:23,427 INFO] 
+Filtered embeddings:
+[2019-11-13 15:26:23,428 INFO] 	* enc: torch.Size([7222, 50])
+[2019-11-13 15:26:23,428 INFO] 	* dec: torch.Size([7222, 50])
+[2019-11-13 15:26:23,428 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:26:23,433 INFO] 
+Done.
+[2019-11-13 15:26:36,863 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:26:36,863 INFO] 	* source vocab: 7598 words
+[2019-11-13 15:26:36,863 INFO] 	* target vocab: 7598 words
+[2019-11-13 15:26:42,995 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:26:49,732 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:26:49,810 INFO] 
+Matching: 
+[2019-11-13 15:26:49,810 INFO] 	* enc: 7411 match, 187 missing, (97.54%)
+[2019-11-13 15:26:49,810 INFO] 	* dec: 7411 match, 187 missing, (97.54%)
+[2019-11-13 15:26:49,810 INFO] 
+Filtered embeddings:
+[2019-11-13 15:26:49,810 INFO] 	* enc: torch.Size([7598, 50])
+[2019-11-13 15:26:49,811 INFO] 	* dec: torch.Size([7598, 50])
+[2019-11-13 15:26:49,811 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:26:49,815 INFO] 
+Done.
+[2019-11-13 15:26:55,461 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:26:55,461 INFO] 	* source vocab: 7440 words
+[2019-11-13 15:26:55,461 INFO] 	* target vocab: 7440 words
+[2019-11-13 15:27:01,775 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:27:08,700 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:27:08,784 INFO] 
+Matching: 
+[2019-11-13 15:27:08,784 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:27:08,785 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:27:08,785 INFO] 
+Filtered embeddings:
+[2019-11-13 15:27:08,785 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 15:27:08,785 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 15:27:08,785 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:27:08,790 INFO] 
+Done.
+[2019-11-13 15:34:36,685 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:34:36,685 INFO] 	* source vocab: 7440 words
+[2019-11-13 15:34:36,685 INFO] 	* target vocab: 7440 words
+[2019-11-13 15:34:42,789 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:34:49,498 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:34:49,596 INFO] 
+Matching: 
+[2019-11-13 15:34:49,596 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:34:49,596 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:34:49,596 INFO] 
+Filtered embeddings:
+[2019-11-13 15:34:49,596 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 15:34:49,596 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 15:34:49,597 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:34:49,602 INFO] 
+Done.
+[2019-11-13 15:39:29,991 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:39:29,991 INFO] 	* source vocab: 7440 words
+[2019-11-13 15:39:29,991 INFO] 	* target vocab: 7440 words
+[2019-11-13 15:39:36,138 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:39:42,866 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:39:42,949 INFO] 
+Matching: 
+[2019-11-13 15:39:42,949 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:39:42,949 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:39:42,949 INFO] 
+Filtered embeddings:
+[2019-11-13 15:39:42,950 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 15:39:42,950 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 15:39:42,950 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:39:42,955 INFO] 
+Done.
+[2019-11-13 15:44:14,028 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:44:14,028 INFO] 	* source vocab: 7440 words
+[2019-11-13 15:44:14,028 INFO] 	* target vocab: 7440 words
+[2019-11-13 15:44:20,194 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:44:27,018 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:44:27,133 INFO] 
+Matching: 
+[2019-11-13 15:44:27,133 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:44:27,133 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:44:27,134 INFO] 
+Filtered embeddings:
+[2019-11-13 15:44:27,134 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 15:44:27,134 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 15:44:27,134 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:44:27,140 INFO] 
+Done.
+[2019-11-13 15:49:11,868 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:49:11,868 INFO] 	* source vocab: 7440 words
+[2019-11-13 15:49:11,869 INFO] 	* target vocab: 7440 words
+[2019-11-13 15:49:17,926 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:49:24,646 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:49:24,731 INFO] 
+Matching: 
+[2019-11-13 15:49:24,731 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:49:24,731 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:49:24,731 INFO] 
+Filtered embeddings:
+[2019-11-13 15:49:24,731 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 15:49:24,731 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 15:49:24,732 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:49:24,736 INFO] 
+Done.
+[2019-11-13 15:54:43,601 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 15:54:43,601 INFO] 	* source vocab: 7440 words
+[2019-11-13 15:54:43,601 INFO] 	* target vocab: 7440 words
+[2019-11-13 15:54:49,753 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:54:56,511 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 15:54:56,610 INFO] 
+Matching: 
+[2019-11-13 15:54:56,610 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:54:56,610 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 15:54:56,611 INFO] 
+Filtered embeddings:
+[2019-11-13 15:54:56,611 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 15:54:56,611 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 15:54:56,611 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 15:54:56,615 INFO] 
+Done.
+[2019-11-13 16:15:55,192 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 16:15:55,192 INFO] 	* source vocab: 7440 words
+[2019-11-13 16:15:55,192 INFO] 	* target vocab: 7440 words
+[2019-11-13 16:16:01,352 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 16:16:08,171 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 16:16:08,255 INFO] 
+Matching: 
+[2019-11-13 16:16:08,255 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 16:16:08,256 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 16:16:08,256 INFO] 
+Filtered embeddings:
+[2019-11-13 16:16:08,256 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 16:16:08,256 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 16:16:08,257 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 16:16:08,263 INFO] 
+Done.
+[2019-11-13 16:37:50,938 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 16:37:50,938 INFO] 	* source vocab: 7440 words
+[2019-11-13 16:37:50,938 INFO] 	* target vocab: 7440 words
+[2019-11-13 16:37:57,037 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 16:38:03,726 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 16:38:03,811 INFO] 
+Matching: 
+[2019-11-13 16:38:03,811 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 16:38:03,812 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 16:38:03,812 INFO] 
+Filtered embeddings:
+[2019-11-13 16:38:03,812 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 16:38:03,812 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 16:38:03,812 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 16:38:03,817 INFO] 
+Done.
+[2019-11-13 19:11:20,260 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 19:11:20,260 INFO] 	* source vocab: 7440 words
+[2019-11-13 19:11:20,260 INFO] 	* target vocab: 7440 words
+[2019-11-13 19:12:55,618 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 19:12:55,618 INFO] 	* source vocab: 7440 words
+[2019-11-13 19:12:55,618 INFO] 	* target vocab: 7440 words
+[2019-11-13 19:13:01,701 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 19:13:08,382 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 19:13:08,469 INFO] 
+Matching: 
+[2019-11-13 19:13:08,469 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 19:13:08,469 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 19:13:08,469 INFO] 
+Filtered embeddings:
+[2019-11-13 19:13:08,469 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 19:13:08,469 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 19:13:08,469 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 19:13:08,474 INFO] 
+Done.
+[2019-11-13 19:38:00,827 INFO] From: ../data/processed.vocab.pt
+[2019-11-13 19:38:00,827 INFO] 	* source vocab: 7440 words
+[2019-11-13 19:38:00,827 INFO] 	* target vocab: 7440 words
+[2019-11-13 19:38:07,001 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 19:38:13,763 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-13 19:38:13,847 INFO] 
+Matching: 
+[2019-11-13 19:38:13,847 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-13 19:38:13,847 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-13 19:38:13,847 INFO] 
+Filtered embeddings:
+[2019-11-13 19:38:13,847 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-13 19:38:13,847 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-13 19:38:13,848 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-13 19:38:13,852 INFO] 
+Done.
+[2019-11-14 10:17:49,501 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 10:17:49,501 INFO] 	* source vocab: 7440 words
+[2019-11-14 10:17:49,501 INFO] 	* target vocab: 7440 words
+[2019-11-14 10:17:55,729 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 10:18:02,538 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 10:18:02,661 INFO] 
+Matching: 
+[2019-11-14 10:18:02,661 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-14 10:18:02,661 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-14 10:18:02,661 INFO] 
+Filtered embeddings:
+[2019-11-14 10:18:02,661 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-14 10:18:02,662 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-14 10:18:02,662 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 10:18:02,667 INFO] 
+Done.
+[2019-11-14 10:18:25,956 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 10:18:25,956 INFO] 	* source vocab: 356 words
+[2019-11-14 10:18:25,956 INFO] 	* target vocab: 356 words
+[2019-11-14 10:18:32,049 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 10:18:38,740 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 10:18:38,743 INFO] 
+Matching: 
+[2019-11-14 10:18:38,743 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 10:18:38,743 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 10:18:38,744 INFO] 
+Filtered embeddings:
+[2019-11-14 10:18:38,744 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 10:18:38,744 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 10:18:38,744 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 10:18:38,745 INFO] 
+Done.
+[2019-11-14 10:21:23,942 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 10:21:23,942 INFO] 	* source vocab: 356 words
+[2019-11-14 10:21:23,942 INFO] 	* target vocab: 356 words
+[2019-11-14 10:21:30,046 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 10:21:36,777 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 10:21:36,781 INFO] 
+Matching: 
+[2019-11-14 10:21:36,781 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 10:21:36,782 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 10:21:36,782 INFO] 
+Filtered embeddings:
+[2019-11-14 10:21:36,782 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 10:21:36,782 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 10:21:36,782 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 10:21:36,782 INFO] 
+Done.
+[2019-11-14 11:21:17,199 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:21:17,199 INFO] 	* source vocab: 356 words
+[2019-11-14 11:21:17,199 INFO] 	* target vocab: 356 words
+[2019-11-14 11:21:23,361 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:21:30,106 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:21:30,109 INFO] 
+Matching: 
+[2019-11-14 11:21:30,110 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 11:21:30,110 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 11:21:30,110 INFO] 
+Filtered embeddings:
+[2019-11-14 11:21:30,110 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 11:21:30,110 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 11:21:30,110 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 11:21:30,111 INFO] 
+Done.
+[2019-11-14 11:22:29,366 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:22:29,366 INFO] 	* source vocab: 356 words
+[2019-11-14 11:22:29,366 INFO] 	* target vocab: 356 words
+[2019-11-14 11:22:35,522 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:22:42,312 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:22:42,316 INFO] 
+Matching: 
+[2019-11-14 11:22:42,316 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 11:22:42,316 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 11:22:42,316 INFO] 
+Filtered embeddings:
+[2019-11-14 11:22:42,317 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 11:22:42,317 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 11:22:42,317 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 11:22:42,317 INFO] 
+Done.
+[2019-11-14 11:25:31,685 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:25:31,685 INFO] 	* source vocab: 356 words
+[2019-11-14 11:25:31,685 INFO] 	* target vocab: 356 words
+[2019-11-14 11:26:46,945 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:26:46,945 INFO] 	* source vocab: 356 words
+[2019-11-14 11:26:46,945 INFO] 	* target vocab: 356 words
+[2019-11-14 11:27:10,509 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:27:10,509 INFO] 	* source vocab: 179 words
+[2019-11-14 11:27:10,509 INFO] 	* target vocab: 179 words
+[2019-11-14 11:28:04,427 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:28:04,427 INFO] 	* source vocab: 344 words
+[2019-11-14 11:28:04,427 INFO] 	* target vocab: 344 words
+[2019-11-14 11:28:36,526 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:28:36,526 INFO] 	* source vocab: 179 words
+[2019-11-14 11:28:36,526 INFO] 	* target vocab: 179 words
+[2019-11-14 11:28:42,649 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:29:12,912 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:29:12,912 INFO] 	* source vocab: 356 words
+[2019-11-14 11:29:12,912 INFO] 	* target vocab: 356 words
+[2019-11-14 11:29:19,109 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:29:52,509 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:29:52,510 INFO] 	* source vocab: 356 words
+[2019-11-14 11:29:52,510 INFO] 	* target vocab: 356 words
+[2019-11-14 11:29:58,617 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:30:05,312 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:30:05,315 INFO] 
+Matching: 
+[2019-11-14 11:30:05,316 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 11:30:05,316 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 11:30:05,316 INFO] 
+Filtered embeddings:
+[2019-11-14 11:30:05,316 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 11:30:05,316 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 11:30:05,316 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 11:30:05,317 INFO] 
+Done.
+[2019-11-14 11:30:23,066 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:30:23,066 INFO] 	* source vocab: 356 words
+[2019-11-14 11:30:23,066 INFO] 	* target vocab: 356 words
+[2019-11-14 11:32:37,173 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:32:37,173 INFO] 	* source vocab: 356 words
+[2019-11-14 11:32:37,173 INFO] 	* target vocab: 356 words
+[2019-11-14 11:32:50,888 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:32:50,888 INFO] 	* source vocab: 356 words
+[2019-11-14 11:32:50,888 INFO] 	* target vocab: 356 words
+[2019-11-14 11:34:15,292 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:34:15,292 INFO] 	* source vocab: 356 words
+[2019-11-14 11:34:15,292 INFO] 	* target vocab: 356 words
+[2019-11-14 11:44:18,976 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:44:18,976 INFO] 	* source vocab: 356 words
+[2019-11-14 11:44:18,976 INFO] 	* target vocab: 356 words
+[2019-11-14 11:46:56,882 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:46:56,882 INFO] 	* source vocab: 356 words
+[2019-11-14 11:46:56,882 INFO] 	* target vocab: 356 words
+[2019-11-14 11:47:11,878 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:47:11,878 INFO] 	* source vocab: 344 words
+[2019-11-14 11:47:11,878 INFO] 	* target vocab: 344 words
+[2019-11-14 11:53:51,496 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:53:51,496 INFO] 	* source vocab: 356 words
+[2019-11-14 11:53:51,496 INFO] 	* target vocab: 356 words
+[2019-11-14 11:54:18,000 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:54:18,001 INFO] 	* source vocab: 356 words
+[2019-11-14 11:54:18,001 INFO] 	* target vocab: 356 words
+[2019-11-14 11:55:15,418 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:55:15,418 INFO] 	* source vocab: 356 words
+[2019-11-14 11:55:15,418 INFO] 	* target vocab: 356 words
+[2019-11-14 11:57:01,727 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:57:01,727 INFO] 	* source vocab: 356 words
+[2019-11-14 11:57:01,727 INFO] 	* target vocab: 356 words
+[2019-11-14 11:57:22,007 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:57:22,007 INFO] 	* source vocab: 356 words
+[2019-11-14 11:57:22,007 INFO] 	* target vocab: 356 words
+[2019-11-14 11:59:44,579 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 11:59:44,579 INFO] 	* source vocab: 356 words
+[2019-11-14 11:59:44,579 INFO] 	* target vocab: 356 words
+[2019-11-14 11:59:50,719 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:59:57,440 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 11:59:57,443 INFO] 
+Matching: 
+[2019-11-14 11:59:57,443 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 11:59:57,443 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 11:59:57,443 INFO] 
+Filtered embeddings:
+[2019-11-14 11:59:57,443 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 11:59:57,443 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 11:59:57,443 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 11:59:57,444 INFO] 
+Done.
+[2019-11-14 12:11:36,490 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 12:11:36,491 INFO] 	* source vocab: 356 words
+[2019-11-14 12:11:36,491 INFO] 	* target vocab: 356 words
+[2019-11-14 12:13:42,629 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 12:13:42,629 INFO] 	* source vocab: 356 words
+[2019-11-14 12:13:42,629 INFO] 	* target vocab: 356 words
+[2019-11-14 12:16:46,326 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 12:16:46,326 INFO] 	* source vocab: 356 words
+[2019-11-14 12:16:46,326 INFO] 	* target vocab: 356 words
+[2019-11-14 12:16:52,474 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 12:16:59,214 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 12:16:59,218 INFO] 
+Matching: 
+[2019-11-14 12:16:59,218 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 12:16:59,218 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 12:16:59,218 INFO] 
+Filtered embeddings:
+[2019-11-14 12:16:59,218 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 12:16:59,218 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 12:16:59,218 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 12:16:59,219 INFO] 
+Done.
+[2019-11-14 12:17:32,074 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 12:17:32,074 INFO] 	* source vocab: 356 words
+[2019-11-14 12:17:32,074 INFO] 	* target vocab: 356 words
+[2019-11-14 12:17:38,311 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 12:17:45,082 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 12:17:45,086 INFO] 
+Matching: 
+[2019-11-14 12:17:45,086 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 12:17:45,086 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 12:17:45,086 INFO] 
+Filtered embeddings:
+[2019-11-14 12:17:45,086 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 12:17:45,086 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 12:17:45,086 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 12:17:45,087 INFO] 
+Done.
+[2019-11-14 20:10:28,418 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 20:10:28,418 INFO] 	* source vocab: 356 words
+[2019-11-14 20:10:28,418 INFO] 	* target vocab: 356 words
+[2019-11-14 20:10:34,540 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:10:41,293 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:10:41,297 INFO] 
+Matching: 
+[2019-11-14 20:10:41,297 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 20:10:41,297 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 20:10:41,297 INFO] 
+Filtered embeddings:
+[2019-11-14 20:10:41,297 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 20:10:41,297 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 20:10:41,297 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 20:10:41,298 INFO] 
+Done.
+[2019-11-14 20:10:51,635 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 20:10:51,635 INFO] 	* source vocab: 7440 words
+[2019-11-14 20:10:51,636 INFO] 	* target vocab: 7440 words
+[2019-11-14 20:10:57,837 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:11:04,657 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:11:04,738 INFO] 
+Matching: 
+[2019-11-14 20:11:04,738 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-14 20:11:04,738 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-14 20:11:04,739 INFO] 
+Filtered embeddings:
+[2019-11-14 20:11:04,739 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-14 20:11:04,739 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-14 20:11:04,739 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 20:11:04,745 INFO] 
+Done.
+[2019-11-14 20:11:22,876 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 20:11:22,876 INFO] 	* source vocab: 356 words
+[2019-11-14 20:11:22,876 INFO] 	* target vocab: 356 words
+[2019-11-14 20:11:28,972 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:11:35,658 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:11:35,662 INFO] 
+Matching: 
+[2019-11-14 20:11:35,662 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 20:11:35,662 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 20:11:35,662 INFO] 
+Filtered embeddings:
+[2019-11-14 20:11:35,662 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 20:11:35,662 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 20:11:35,662 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 20:11:35,663 INFO] 
+Done.
+[2019-11-14 20:11:40,867 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 20:11:40,867 INFO] 	* source vocab: 356 words
+[2019-11-14 20:11:40,867 INFO] 	* target vocab: 356 words
+[2019-11-14 20:11:47,065 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:11:53,802 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:11:53,806 INFO] 
+Matching: 
+[2019-11-14 20:11:53,806 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-14 20:11:53,806 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-14 20:11:53,806 INFO] 
+Filtered embeddings:
+[2019-11-14 20:11:53,806 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-14 20:11:53,806 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-14 20:11:53,806 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 20:11:53,807 INFO] 
+Done.
+[2019-11-14 20:21:41,764 INFO] From: ../data/processed.vocab.pt
+[2019-11-14 20:21:41,764 INFO] 	* source vocab: 7440 words
+[2019-11-14 20:21:41,764 INFO] 	* target vocab: 7440 words
+[2019-11-14 20:21:47,935 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:21:54,727 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-14 20:21:54,815 INFO] 
+Matching: 
+[2019-11-14 20:21:54,816 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-11-14 20:21:54,816 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-11-14 20:21:54,816 INFO] 
+Filtered embeddings:
+[2019-11-14 20:21:54,816 INFO] 	* enc: torch.Size([7440, 50])
+[2019-11-14 20:21:54,816 INFO] 	* dec: torch.Size([7440, 50])
+[2019-11-14 20:21:54,816 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-14 20:21:54,820 INFO] 
+Done.
+[2019-11-15 13:26:03,569 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 13:26:03,569 INFO] 	* source vocab: 7440 words
+[2019-11-15 13:26:03,570 INFO] 	* target vocab: 7440 words
+[2019-11-15 13:26:52,147 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 13:26:52,147 INFO] 	* source vocab: 356 words
+[2019-11-15 13:26:52,147 INFO] 	* target vocab: 356 words
+[2019-11-15 14:25:41,748 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 14:25:41,748 INFO] 	* source vocab: 356 words
+[2019-11-15 14:25:41,748 INFO] 	* target vocab: 356 words
+[2019-11-15 14:25:47,978 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 14:25:54,833 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 14:25:54,837 INFO] 
+Matching: 
+[2019-11-15 14:25:54,837 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-15 14:25:54,837 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-15 14:25:54,837 INFO] 
+Filtered embeddings:
+[2019-11-15 14:25:54,837 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-15 14:25:54,837 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-15 14:25:54,837 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-15 14:25:54,839 INFO] 
+Done.
+[2019-11-15 14:26:04,109 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 14:26:04,110 INFO] 	* source vocab: 356 words
+[2019-11-15 14:26:04,110 INFO] 	* target vocab: 356 words
+[2019-11-15 14:26:10,177 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 14:26:16,843 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 14:26:16,847 INFO] 
+Matching: 
+[2019-11-15 14:26:16,847 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-15 14:26:16,847 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-15 14:26:16,847 INFO] 
+Filtered embeddings:
+[2019-11-15 14:26:16,847 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-15 14:26:16,847 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-15 14:26:16,847 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-15 14:26:16,848 INFO] 
+Done.
+[2019-11-15 14:32:47,635 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 14:32:47,635 INFO] 	* source vocab: 356 words
+[2019-11-15 14:32:47,635 INFO] 	* target vocab: 356 words
+[2019-11-15 14:32:53,745 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 14:33:00,489 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 14:33:00,493 INFO] 
+Matching: 
+[2019-11-15 14:33:00,493 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-15 14:33:00,493 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-15 14:33:00,493 INFO] 
+Filtered embeddings:
+[2019-11-15 14:33:00,493 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-15 14:33:00,494 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-15 14:33:00,494 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-15 14:33:00,494 INFO] 
+Done.
+[2019-11-15 16:42:49,044 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 16:42:49,044 INFO] 	* source vocab: 356 words
+[2019-11-15 16:42:49,044 INFO] 	* target vocab: 356 words
+[2019-11-15 16:42:55,230 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 16:43:02,100 INFO] Got 400000 decryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 16:43:02,104 INFO] 
+Matching: 
+[2019-11-15 16:43:02,104 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-15 16:43:02,104 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-15 16:43:02,104 INFO] 
+Filtered embeddings:
+[2019-11-15 16:43:02,104 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-15 16:43:02,105 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-15 16:43:02,105 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-15 16:43:02,105 INFO] 
+Done.
+[2019-11-15 16:46:44,472 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 16:46:44,472 INFO] 	* source vocab: 356 words
+[2019-11-15 16:46:44,472 INFO] 	* target vocab: 356 words
+[2019-11-15 16:48:22,087 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 16:48:22,087 INFO] 	* source vocab: 356 words
+[2019-11-15 16:48:22,087 INFO] 	* target vocab: 356 words
+[2019-11-15 16:48:33,891 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 16:48:33,891 INFO] 	* source vocab: 356 words
+[2019-11-15 16:48:33,891 INFO] 	* target vocab: 356 words
+[2019-11-15 16:49:26,114 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 16:49:26,114 INFO] 	* source vocab: 356 words
+[2019-11-15 16:49:26,114 INFO] 	* target vocab: 356 words
+[2019-11-15 16:52:00,438 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 16:52:00,438 INFO] 	* source vocab: 356 words
+[2019-11-15 16:52:00,438 INFO] 	* target vocab: 356 words
+[2019-11-15 16:52:06,539 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 16:52:06,543 INFO] 
+Matching: 
+[2019-11-15 16:52:06,543 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-15 16:52:06,543 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-15 16:52:06,543 INFO] 
+Filtered embeddings:
+[2019-11-15 16:52:06,543 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-15 16:52:06,543 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-15 16:52:06,543 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-15 16:52:06,544 INFO] 
+Done.
+[2019-11-15 16:52:59,507 INFO] From: ../data/processed.vocab.pt
+[2019-11-15 16:52:59,508 INFO] 	* source vocab: 356 words
+[2019-11-15 16:52:59,508 INFO] 	* target vocab: 356 words
+[2019-11-15 16:53:05,684 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-15 16:53:05,687 INFO] 
+Matching: 
+[2019-11-15 16:53:05,687 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-15 16:53:05,687 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-15 16:53:05,687 INFO] 
+Filtered embeddings:
+[2019-11-15 16:53:05,687 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-15 16:53:05,688 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-15 16:53:05,688 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-15 16:53:05,688 INFO] 
+Done.
+[2019-11-20 10:17:57,131 INFO] From: ../data/processed.vocab.pt
+[2019-11-20 10:17:57,131 INFO] 	* source vocab: 356 words
+[2019-11-20 10:17:57,131 INFO] 	* target vocab: 356 words
+[2019-11-20 10:18:03,242 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-20 10:18:03,246 INFO] 
+Matching: 
+[2019-11-20 10:18:03,246 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-20 10:18:03,246 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-20 10:18:03,246 INFO] 
+Filtered embeddings:
+[2019-11-20 10:18:03,246 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-20 10:18:03,246 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-20 10:18:03,246 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-20 10:18:03,247 INFO] 
+Done.
+[2019-11-20 10:21:49,628 INFO] From: ../data/processed.vocab.pt
+[2019-11-20 10:21:49,629 INFO] 	* source vocab: 356 words
+[2019-11-20 10:21:49,629 INFO] 	* target vocab: 356 words
+[2019-11-20 10:21:55,800 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-11-20 10:21:55,803 INFO] 
+Matching: 
+[2019-11-20 10:21:55,803 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-11-20 10:21:55,804 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-11-20 10:21:55,804 INFO] 
+Filtered embeddings:
+[2019-11-20 10:21:55,804 INFO] 	* enc: torch.Size([356, 50])
+[2019-11-20 10:21:55,804 INFO] 	* dec: torch.Size([356, 50])
+[2019-11-20 10:21:55,804 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-11-20 10:21:55,805 INFO] 
+Done.
+[2019-12-03 12:15:38,864 INFO] From: ../data/processed.vocab.pt
+[2019-12-03 12:15:38,864 INFO] 	* source vocab: 356 words
+[2019-12-03 12:15:38,864 INFO] 	* target vocab: 356 words
+[2019-12-03 12:15:45,100 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-03 12:15:45,104 INFO] 
+Matching: 
+[2019-12-03 12:15:45,104 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-12-03 12:15:45,104 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-12-03 12:15:45,104 INFO] 
+Filtered embeddings:
+[2019-12-03 12:15:45,104 INFO] 	* enc: torch.Size([356, 50])
+[2019-12-03 12:15:45,104 INFO] 	* dec: torch.Size([356, 50])
+[2019-12-03 12:15:45,104 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-03 12:15:45,105 INFO] 
+Done.
+[2019-12-04 15:11:20,999 INFO] From: ../data/processed.vocab.pt
+[2019-12-04 15:11:20,999 INFO] 	* source vocab: 356 words
+[2019-12-04 15:11:20,999 INFO] 	* target vocab: 356 words
+[2019-12-04 15:11:27,112 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-04 15:11:27,116 INFO] 
+Matching: 
+[2019-12-04 15:11:27,116 INFO] 	* enc: 351 match, 5 missing, (98.60%)
+[2019-12-04 15:11:27,116 INFO] 	* dec: 351 match, 5 missing, (98.60%)
+[2019-12-04 15:11:27,116 INFO] 
+Filtered embeddings:
+[2019-12-04 15:11:27,116 INFO] 	* enc: torch.Size([356, 50])
+[2019-12-04 15:11:27,116 INFO] 	* dec: torch.Size([356, 50])
+[2019-12-04 15:11:27,116 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-04 15:11:27,117 INFO] 
+Done.
+[2019-12-04 15:11:54,966 INFO] From: ../data/processed.vocab.pt
+[2019-12-04 15:11:54,966 INFO] 	* source vocab: 7440 words
+[2019-12-04 15:11:54,966 INFO] 	* target vocab: 7440 words
+[2019-12-04 15:12:01,132 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-04 15:12:01,240 INFO] 
+Matching: 
+[2019-12-04 15:12:01,240 INFO] 	* enc: 7261 match, 179 missing, (97.59%)
+[2019-12-04 15:12:01,240 INFO] 	* dec: 7261 match, 179 missing, (97.59%)
+[2019-12-04 15:12:01,240 INFO] 
+Filtered embeddings:
+[2019-12-04 15:12:01,240 INFO] 	* enc: torch.Size([7440, 50])
+[2019-12-04 15:12:01,241 INFO] 	* dec: torch.Size([7440, 50])
+[2019-12-04 15:12:01,241 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-04 15:12:01,246 INFO] 
+Done.
+[2019-12-10 11:44:47,181 INFO] From: ../data/processed.vocab.pt
+[2019-12-10 11:44:47,181 INFO] 	* source vocab: 7331 words
+[2019-12-10 11:44:47,181 INFO] 	* target vocab: 7331 words
+[2019-12-10 11:44:53,349 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-10 11:44:53,428 INFO] 
+Matching: 
+[2019-12-10 11:44:53,429 INFO] 	* enc: 7158 match, 173 missing, (97.64%)
+[2019-12-10 11:44:53,429 INFO] 	* dec: 7158 match, 173 missing, (97.64%)
+[2019-12-10 11:44:53,429 INFO] 
+Filtered embeddings:
+[2019-12-10 11:44:53,429 INFO] 	* enc: torch.Size([7331, 50])
+[2019-12-10 11:44:53,429 INFO] 	* dec: torch.Size([7331, 50])
+[2019-12-10 11:44:53,429 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-10 11:44:53,434 INFO] 
+Done.
+[2019-12-10 11:45:28,539 INFO] From: ../data/processed.vocab.pt
+[2019-12-10 11:45:28,539 INFO] 	* source vocab: 7331 words
+[2019-12-10 11:45:28,539 INFO] 	* target vocab: 7331 words
+[2019-12-10 11:45:34,807 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-10 11:45:34,894 INFO] 
+Matching: 
+[2019-12-10 11:45:34,894 INFO] 	* enc: 7158 match, 173 missing, (97.64%)
+[2019-12-10 11:45:34,894 INFO] 	* dec: 7158 match, 173 missing, (97.64%)
+[2019-12-10 11:45:34,894 INFO] 
+Filtered embeddings:
+[2019-12-10 11:45:34,895 INFO] 	* enc: torch.Size([7331, 50])
+[2019-12-10 11:45:34,895 INFO] 	* dec: torch.Size([7331, 50])
+[2019-12-10 11:45:34,895 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-10 11:45:34,901 INFO] 
+Done.
+[2019-12-12 17:34:44,494 INFO] From: ../data/processed.vocab.pt
+[2019-12-12 17:34:44,494 INFO] 	* source vocab: 7331 words
+[2019-12-12 17:34:44,494 INFO] 	* target vocab: 7331 words
+[2019-12-12 17:34:50,789 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-12 17:34:50,877 INFO] 
+Matching: 
+[2019-12-12 17:34:50,878 INFO] 	* enc: 7158 match, 173 missing, (97.64%)
+[2019-12-12 17:34:50,878 INFO] 	* dec: 7158 match, 173 missing, (97.64%)
+[2019-12-12 17:34:50,878 INFO] 
+Filtered embeddings:
+[2019-12-12 17:34:50,878 INFO] 	* enc: torch.Size([7331, 50])
+[2019-12-12 17:34:50,878 INFO] 	* dec: torch.Size([7331, 50])
+[2019-12-12 17:34:50,878 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-12 17:34:50,883 INFO] 
+Done.
+[2019-12-13 10:54:10,617 INFO] From: ../data/processed.vocab.pt
+[2019-12-13 10:54:10,617 INFO] 	* source vocab: 7262 words
+[2019-12-13 10:54:10,617 INFO] 	* target vocab: 7262 words
+[2019-12-13 10:54:28,196 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-13 10:54:28,268 INFO] 
+Matching: 
+[2019-12-13 10:54:28,268 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-13 10:54:28,269 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-13 10:54:28,269 INFO] 
+Filtered embeddings:
+[2019-12-13 10:54:28,269 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-13 10:54:28,269 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-13 10:54:28,269 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-13 10:54:28,274 INFO] 
+Done.
+[2019-12-14 15:29:21,771 INFO] From: ../data/processed.vocab.pt
+[2019-12-14 15:29:21,771 INFO] 	* source vocab: 7262 words
+[2019-12-14 15:29:21,771 INFO] 	* target vocab: 7262 words
+[2019-12-14 15:29:28,264 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-14 15:29:28,385 INFO] 
+Matching: 
+[2019-12-14 15:29:28,386 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-14 15:29:28,386 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-14 15:29:28,386 INFO] 
+Filtered embeddings:
+[2019-12-14 15:29:28,387 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-14 15:29:28,387 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-14 15:29:28,387 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-14 15:29:28,392 INFO] 
+Done.
+[2019-12-15 10:19:57,836 INFO] From: ../data/processed.vocab.pt
+[2019-12-15 10:19:57,836 INFO] 	* source vocab: 7262 words
+[2019-12-15 10:19:57,836 INFO] 	* target vocab: 7262 words
+[2019-12-15 10:20:03,920 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-15 10:20:04,027 INFO] 
+Matching: 
+[2019-12-15 10:20:04,028 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-15 10:20:04,028 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-15 10:20:04,028 INFO] 
+Filtered embeddings:
+[2019-12-15 10:20:04,028 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-15 10:20:04,028 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-15 10:20:04,028 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-15 10:20:04,034 INFO] 
+Done.
+[2019-12-15 10:22:17,861 INFO] From: ../data/processed.vocab.pt
+[2019-12-15 10:22:17,862 INFO] 	* source vocab: 7262 words
+[2019-12-15 10:22:17,862 INFO] 	* target vocab: 7262 words
+[2019-12-15 10:22:23,969 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-15 10:22:24,053 INFO] 
+Matching: 
+[2019-12-15 10:22:24,054 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-15 10:22:24,054 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-15 10:22:24,054 INFO] 
+Filtered embeddings:
+[2019-12-15 10:22:24,054 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-15 10:22:24,054 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-15 10:22:24,054 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-15 10:22:24,060 INFO] 
+Done.
+[2019-12-15 10:25:03,082 INFO] From: ../data/processed.vocab.pt
+[2019-12-15 10:25:03,082 INFO] 	* source vocab: 7262 words
+[2019-12-15 10:25:03,082 INFO] 	* target vocab: 7262 words
+[2019-12-15 10:25:09,188 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-15 10:25:09,272 INFO] 
+Matching: 
+[2019-12-15 10:25:09,272 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-15 10:25:09,273 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-15 10:25:09,273 INFO] 
+Filtered embeddings:
+[2019-12-15 10:25:09,273 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-15 10:25:09,273 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-15 10:25:09,273 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-15 10:25:09,279 INFO] 
+Done.
+[2019-12-15 10:29:32,530 INFO] From: ../data/processed.vocab.pt
+[2019-12-15 10:29:32,530 INFO] 	* source vocab: 7262 words
+[2019-12-15 10:29:32,530 INFO] 	* target vocab: 7262 words
+[2019-12-15 10:29:38,644 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-15 10:29:38,738 INFO] 
+Matching: 
+[2019-12-15 10:29:38,739 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-15 10:29:38,739 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-15 10:29:38,739 INFO] 
+Filtered embeddings:
+[2019-12-15 10:29:38,739 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-15 10:29:38,739 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-15 10:29:38,739 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-15 10:29:38,744 INFO] 
+Done.
+[2019-12-17 11:07:55,397 INFO] From: ../data/processed.vocab.pt
+[2019-12-17 11:07:55,397 INFO] 	* source vocab: 7262 words
+[2019-12-17 11:07:55,397 INFO] 	* target vocab: 7262 words
+[2019-12-17 11:08:01,507 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-17 11:08:01,591 INFO] 
+Matching: 
+[2019-12-17 11:08:01,591 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-17 11:08:01,591 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-17 11:08:01,591 INFO] 
+Filtered embeddings:
+[2019-12-17 11:08:01,592 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-17 11:08:01,592 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-17 11:08:01,592 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-17 11:08:01,598 INFO] 
+Done.
+[2019-12-19 21:26:54,292 INFO] From: ../data/processed.vocab.pt
+[2019-12-19 21:26:54,299 INFO] 	* source vocab: 7262 words
+[2019-12-19 21:26:54,299 INFO] 	* target vocab: 7262 words
+[2019-12-19 21:27:00,638 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-19 21:27:00,856 INFO] 
+Matching: 
+[2019-12-19 21:27:00,857 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-19 21:27:00,857 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-19 21:27:00,857 INFO] 
+Filtered embeddings:
+[2019-12-19 21:27:00,865 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-19 21:27:00,865 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-19 21:27:00,865 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-19 21:27:00,877 INFO] 
+Done.
+[2019-12-25 18:56:53,535 INFO] From: ../data/processed.vocab.pt
+[2019-12-25 18:56:53,555 INFO] 	* source vocab: 7262 words
+[2019-12-25 18:56:53,555 INFO] 	* target vocab: 7262 words
+[2019-12-25 18:57:33,627 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-25 18:57:34,110 INFO] 
+Matching: 
+[2019-12-25 18:57:34,112 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-25 18:57:34,113 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-25 18:57:34,114 INFO] 
+Filtered embeddings:
+[2019-12-25 18:57:34,115 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-25 18:57:34,116 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-25 18:57:34,117 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-25 18:57:34,122 INFO] 
+Done.
+[2019-12-26 10:17:14,907 INFO] From: ../data/processed.vocab.pt
+[2019-12-26 10:17:14,910 INFO] 	* source vocab: 7262 words
+[2019-12-26 10:17:14,910 INFO] 	* target vocab: 7262 words
+[2019-12-26 10:17:34,068 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-26 10:17:34,188 INFO] 
+Matching: 
+[2019-12-26 10:17:34,188 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-26 10:17:34,188 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-26 10:17:34,188 INFO] 
+Filtered embeddings:
+[2019-12-26 10:17:34,189 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-26 10:17:34,189 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-26 10:17:34,189 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-26 10:17:34,194 INFO] 
+Done.
+[2019-12-28 13:50:03,403 INFO] From: ../data/processed.vocab.pt
+[2019-12-28 13:50:03,403 INFO] 	* source vocab: 7262 words
+[2019-12-28 13:50:03,404 INFO] 	* target vocab: 7262 words
+[2019-12-28 13:50:18,090 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2019-12-28 13:50:18,593 INFO] 
+Matching: 
+[2019-12-28 13:50:18,598 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2019-12-28 13:50:18,600 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2019-12-28 13:50:18,602 INFO] 
+Filtered embeddings:
+[2019-12-28 13:50:18,604 INFO] 	* enc: torch.Size([7262, 50])
+[2019-12-28 13:50:18,606 INFO] 	* dec: torch.Size([7262, 50])
+[2019-12-28 13:50:18,608 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2019-12-28 13:50:18,614 INFO] 
+Done.
+[2020-01-02 16:31:41,324 INFO] From: ../data/processed.vocab.pt
+[2020-01-02 16:31:41,325 INFO] 	* source vocab: 7262 words
+[2020-01-02 16:31:41,325 INFO] 	* target vocab: 7262 words
+[2020-01-02 16:31:56,967 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2020-01-02 16:31:57,227 INFO] 
+Matching: 
+[2020-01-02 16:31:57,229 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2020-01-02 16:31:57,229 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2020-01-02 16:31:57,230 INFO] 
+Filtered embeddings:
+[2020-01-02 16:31:57,231 INFO] 	* enc: torch.Size([7262, 50])
+[2020-01-02 16:31:57,232 INFO] 	* dec: torch.Size([7262, 50])
+[2020-01-02 16:31:57,232 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2020-01-02 16:31:57,238 INFO] 
+Done.
+[2020-01-02 16:48:43,255 INFO] From: ../data/processed.vocab.pt
+[2020-01-02 16:48:43,256 INFO] 	* source vocab: 7262 words
+[2020-01-02 16:48:43,256 INFO] 	* target vocab: 7262 words
+[2020-01-02 16:48:58,383 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2020-01-02 16:48:58,837 INFO] 
+Matching: 
+[2020-01-02 16:48:58,837 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2020-01-02 16:48:58,837 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2020-01-02 16:48:58,838 INFO] 
+Filtered embeddings:
+[2020-01-02 16:48:58,838 INFO] 	* enc: torch.Size([7262, 50])
+[2020-01-02 16:48:58,838 INFO] 	* dec: torch.Size([7262, 50])
+[2020-01-02 16:48:58,838 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2020-01-02 16:48:58,842 INFO] 
+Done.
+[2020-01-12 12:22:24,939 INFO] From: ../data/processed.vocab.pt
+[2020-01-12 12:22:24,955 INFO] 	* source vocab: 50004 words
+[2020-01-12 12:22:24,956 INFO] 	* target vocab: 50004 words
+[2020-01-12 12:22:38,558 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2020-01-12 12:22:39,555 INFO] 
+Matching: 
+[2020-01-12 12:22:39,555 INFO] 	* enc: 41249 match, 8755 missing, (82.49%)
+[2020-01-12 12:22:39,555 INFO] 	* dec: 41249 match, 8755 missing, (82.49%)
+[2020-01-12 12:22:39,555 INFO] 
+Filtered embeddings:
+[2020-01-12 12:22:39,577 INFO] 	* enc: torch.Size([50004, 50])
+[2020-01-12 12:22:39,577 INFO] 	* dec: torch.Size([50004, 50])
+[2020-01-12 12:22:39,577 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2020-01-12 12:22:39,612 INFO] 
+Done.
+[2020-01-19 21:11:21,965 INFO] From: ../data/processed.vocab.pt
+[2020-01-19 21:11:21,974 INFO] 	* source vocab: 7262 words
+[2020-01-19 21:11:21,975 INFO] 	* target vocab: 7262 words
+[2020-01-19 21:11:28,364 INFO] Got 400000 encryption embeddings from ../data/glove/glove.6B.50d.txt
+[2020-01-19 21:11:28,449 INFO] 
+Matching: 
+[2020-01-19 21:11:28,450 INFO] 	* enc: 7092 match, 170 missing, (97.66%)
+[2020-01-19 21:11:28,450 INFO] 	* dec: 7092 match, 170 missing, (97.66%)
+[2020-01-19 21:11:28,450 INFO] 
+Filtered embeddings:
+[2020-01-19 21:11:28,450 INFO] 	* enc: torch.Size([7262, 50])
+[2020-01-19 21:11:28,450 INFO] 	* dec: torch.Size([7262, 50])
+[2020-01-19 21:11:28,450 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2020-01-19 21:11:28,454 INFO] 
+Done.
+[2020-04-25 14:18:46,739 INFO] From: ../data/processed.vocab.pt
+[2020-04-25 14:18:46,740 INFO] 	* source vocab: 50004 words
+[2020-04-25 14:18:46,740 INFO] 	* target vocab: 50004 words
+[2020-04-25 14:24:37,045 INFO] Got 2196007 encryption embeddings from ../../../embeddings/glove.840B.300d.txt
+[2020-04-25 14:24:39,282 INFO] 
+Matching: 
+[2020-04-25 14:24:39,282 INFO] 	* enc: 41400 match, 8604 missing, (82.79%)
+[2020-04-25 14:24:39,282 INFO] 	* dec: 41400 match, 8604 missing, (82.79%)
+[2020-04-25 14:24:39,282 INFO] 
+Filtered embeddings:
+[2020-04-25 14:24:39,282 INFO] 	* enc: torch.Size([50004, 300])
+[2020-04-25 14:24:39,282 INFO] 	* dec: torch.Size([50004, 300])
+[2020-04-25 14:24:39,283 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2020-04-25 14:24:39,387 INFO] 
+Done.
+[2020-04-25 15:04:49,130 INFO] From: ../data/processed.vocab.pt
+[2020-04-25 15:04:49,130 INFO] 	* source vocab: 50004 words
+[2020-04-25 15:04:49,130 INFO] 	* target vocab: 50004 words
+[2020-04-25 15:10:32,888 INFO] Got 2196007 encryption embeddings from ../../../embeddings/glove.840B.300d.txt
+[2020-04-25 15:10:35,165 INFO] 
+Matching: 
+[2020-04-25 15:10:35,165 INFO] 	* enc: 41400 match, 8604 missing, (82.79%)
+[2020-04-25 15:10:35,165 INFO] 	* dec: 41400 match, 8604 missing, (82.79%)
+[2020-04-25 15:10:35,165 INFO] 
+Filtered embeddings:
+[2020-04-25 15:10:35,165 INFO] 	* enc: torch.Size([50004, 300])
+[2020-04-25 15:10:35,165 INFO] 	* dec: torch.Size([50004, 300])
+[2020-04-25 15:10:35,166 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2020-04-25 15:10:35,459 INFO] 
+Done.
+[2020-04-29 21:44:44,939 INFO] From: ../data/processed.vocab.pt
+[2020-04-29 21:44:44,939 INFO] 	* source vocab: 50004 words
+[2020-04-29 21:44:44,939 INFO] 	* target vocab: 50004 words
+[2020-04-29 21:50:48,636 INFO] Got 2196007 encryption embeddings from ../../../embeddings/glove.840B.300d.txt
+[2020-04-29 21:50:50,667 INFO] 
+Matching: 
+[2020-04-29 21:50:50,667 INFO] 	* enc: 41400 match, 8604 missing, (82.79%)
+[2020-04-29 21:50:50,668 INFO] 	* dec: 41400 match, 8604 missing, (82.79%)
+[2020-04-29 21:50:50,668 INFO] 
+Filtered embeddings:
+[2020-04-29 21:50:50,668 INFO] 	* enc: torch.Size([50004, 300])
+[2020-04-29 21:50:50,668 INFO] 	* dec: torch.Size([50004, 300])
+[2020-04-29 21:50:50,668 INFO] 
+Saving embedding as:
+	* enc: ../data/processed.glove.enc.pt
+	* dec: ../data/processed.glove.dec.pt
+[2020-04-29 21:50:50,893 INFO] 
+Done.
