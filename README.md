@@ -9,8 +9,8 @@ This repository consists of the implementation of the model HMD_Network paper ([
 # Quick Start
 - Install all the dependencies by *conda env create -f environment.yml* (some of the packages installed through *pip* so, need to install them separately)
 - Run instructions are same as OpenNMT-py run instructions 
-  - *./script/preprocess.sh* - load and preprocess the data also, load glove embeddings
-  - *./script/train.sh* - to train the model
-  - *./script/translate.sh* - to generated the distractors
+  - *./script/preprocess.sh* - load and preprocess the data and load glove embeddings as well
+  - *./script/train.sh* - train the model
+  - *./script/translate.sh* - generated the distractors
   
 
