@@ -1,5 +1,5 @@
 # HMD_Net
-This repository consists of the implementation of the model HMD_Network which is accepted in CIKM'20. We modified the implementation of [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) to adopt for distractor generation task. 
+This repository consists of the implementation of the model HMD_Network paper ([link](https://dl.acm.org/doi/pdf/10.1145/3340531.3411997)) which is accepted in CIKM'20. We modified the implementation of [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) to adopt for distractor generation task. 
 
 # Dependencies
 - python 3.6
@@ -13,5 +13,4 @@ This repository consists of the implementation of the model HMD_Network which is
   - *./script/train.sh* - to train the model
   - *./script/translate.sh* - to generated the distractors
   
-# Others
-- The *HMD_Net_slides.pdf* provides an overview and future scope of the project.
+
