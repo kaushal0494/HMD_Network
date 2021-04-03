@@ -14,10 +14,10 @@ This repository consists of the implementation of the model HMD_Network paper ([
   - *./script/translate.sh* - generated the distractors
   
 # cite
-*@inproceedings{maurya2020learning,
+'''@inproceedings{maurya2020learning,
   title={Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension},
   author={Maurya, Kaushal Kumar and Desarkar, Maunendra Sankar},
   booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
   pages={1115--1124},
   year={2020}
-}*
+}'''
