@@ -15,7 +15,9 @@ This repository consists of the implementation of the model HMD_Network paper ([
   - *./script/train.sh* - train the model
   - *./script/translate.sh* - generated the distractors
   ```
-# Cite
+# License
+
+# Citation
 ```
 @inproceedings{maurya2020learning,
   title={Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension},
