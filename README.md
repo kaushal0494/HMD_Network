@@ -21,6 +21,7 @@ RACE_DG and RACE_DG+ datasets can be downloaded from [here](https://iith-my.shar
   - *./script/translate.sh* - generated the distractors
   ```
 # License
+This project is licensed under the MIT License. Please see the LICENSE file for more details.
 
 # Citation
 ```
