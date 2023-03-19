@@ -12,14 +12,24 @@ RACE_DG and RACE_DG+ datasets can be downloaded from [here](https://iith-my.shar
 - pytorch=1.2.0
 - List of all dependencies can be found in environment.yml
 ```
+
 # Quick Start
-- Install all the dependencies by *conda env create -f environment.yml* (some of the packages installed through *pip* so, need to install them separately)
-- Run instructions are same as OpenNMT-py run instructions 
-  ```
-  - *./script/preprocess.sh* - load and preprocess the data and load glove embeddings as well
-  - *./script/train.sh* - train the model
-  - *./script/translate.sh* - generated the distractors
-  ```
+To get started with the HMD_Net model, please follow the steps below:
+
+- Install all the dependencies by running the command `conda env create -f environment.yml`. Some of the packages will be installed through pip, so you may need to install them separately.
+
+- The run instructions for the HMD_Net model are the same as the OpenNMT-py run instructions. Please follow the steps below for model training  and generate:
+```
+# This script is used to load and preprocess the data, as well as load GloVe embeddings.
+* ./script/preprocess.sh
+
+# This script is used to train the model
+* ./script/train.sh 
+
+# This script is used to generate the distractors
+* ./script/translate.sh 
+```
+
 # License
 This project is licensed under the MIT License. Please see the LICENSE file for more details.
 
