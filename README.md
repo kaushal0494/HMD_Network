@@ -16,7 +16,7 @@ RACE DG and RACE DG+ datasets can be downloaded from [here](https://iith-my.shar
 - python 3.6
 - pytorch=1.2.0
 ```
-All other dependencies list can be found in `environment.yml`
+For a complete list of other dependencies required to run the HMD Network model, please refer to the `environment.yml` file.
 
 # Quick Start
 To get started with the HMD_Net model, please follow the steps below:
