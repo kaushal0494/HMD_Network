@@ -7,11 +7,12 @@ This repository contains the implementation of the HMD_Network paper titled [Lea
 RACE_DG and RACE_DG+ datasets can be downloaded from [here](https://iith-my.sharepoint.com/:f:/g/personal/cs18resch11003_iith_ac_in/Ep53QDxqDfFKqekYccbOPAkBjmEyZxirbGu52x-3aNSPUA?e=15HY9m)
 
 # Dependencies
+
 ```
 - python 3.6
 - pytorch=1.2.0
-- List of all dependencies can be found in environment.yml
 ```
+All other dependencies list can be found in `environment.yml`
 
 # Quick Start
 To get started with the HMD_Net model, please follow the steps below:
