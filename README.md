@@ -3,6 +3,10 @@ Welcome to the HMD_Net repository!
 
 This repository contains the implementation of the HMD_Network paper titled [Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension](https://dl.acm.org/doi/pdf/10.1145/3340531.3411997), which was published in the Conference on Information and Knowledge Management (CIKM) 2020. The implementation is based on the [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) repository and adapted for the distractor generation task.
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021/blob/main/LICENSE)
+[![others](https://img.shields.io/badge/Huggingface-Cuda%2011.1.0-brightgreen)](https://huggingface.co/)
+[![others](https://img.shields.io/badge/PyTorch-Stable%20(1.8.1)-orange)](https://pytorch.org/)
+
 # Dataset
 RACE_DG and RACE_DG+ datasets can be downloaded from [here](https://iith-my.sharepoint.com/:f:/g/personal/cs18resch11003_iith_ac_in/Ep53QDxqDfFKqekYccbOPAkBjmEyZxirbGu52x-3aNSPUA?e=15HY9m)
 
