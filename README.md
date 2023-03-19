@@ -1,7 +1,7 @@
 # HMD_Net
 Welcome to the HMD_Net repository!
 
-This repository contains the implementation of the HMD_Network paper titled [Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension](https://dl.acm.org/doi/pdf/10.1145/3340531.3411997, which was published in the Conference on Information and Knowledge Management (CIKM) 2020. The implementation is based on the [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) repository and adapted for the distractor generation task.
+This repository contains the implementation of the HMD_Network paper titled ![Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension](https://dl.acm.org/doi/pdf/10.1145/3340531.3411997, which was published in the Conference on Information and Knowledge Management (CIKM) 2020. The implementation is based on the ![OpenNMT](https://github.com/OpenNMT/OpenNMT-py) repository and adapted for the distractor generation task.
 
 # Dataset
 RACE_DG and RACE_DG+ datasets can be downloaded from this [link](https://drive.google.com/drive/folders/1q2k7wwikvBuruvH-69jMKuhkcl1CgjU-?usp=sharing)
