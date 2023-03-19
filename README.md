@@ -21,7 +21,7 @@ To get started with the HMD_Net model, please follow the steps below:
 
 - The run instructions for the HMD_Net model are the same as the OpenNMT-py run instructions. Please follow the steps below for model training  and generate:
 ```
-# This script is used to load and preprocess the data, as well as load GloVe embeddings.
+# This script is used to load and preprocess the data, as well as load GloVe embeddings
 bash script/preprocess.sh
 
 # This script is used to train the model
